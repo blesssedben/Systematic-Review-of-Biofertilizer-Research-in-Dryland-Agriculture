@@ -4,8 +4,7 @@ The supplemnetary files ensure full transparency and reproducibility of the bibl
 All analyses were performed between December 2024 and August 2025.
 
 Software and Versions:
-VOSviewer v1.6.x
-
+VOSviewer v1.6.x,
 Gephi v0.10.x
 All parameters and thresholds are described in Pajek network files
 
@@ -24,4 +23,4 @@ Upload cleaned data into VOSviewer application and generate the network maps.
 
 Run keywords co-occurrence, co-authorship, and citation network at three thresholds n ≥ 1, 3, and 5 for all network levels.
 Export pajek files from VOSviewer to Gephi to run the modularity analysis.
-Use default settings on Gaphi: resolution = 1.0; normalization = association strength; attraction = 2, repulsion = –1 (default).
+Use default settings on Gephi: resolution = 1.0; normalization = association strength; attraction = 2, repulsion = –1 (default).
