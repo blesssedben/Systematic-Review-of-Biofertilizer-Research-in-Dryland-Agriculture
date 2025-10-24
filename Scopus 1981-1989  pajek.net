@@ -1,0 +1,32 @@
+﻿*Vertices 12
+1 "<sup>15</sup>n isotope dilution" -0.6394 -0.5054
+2 "arid lands" 0.7321 -0.2675
+3 "associative-n<sub>2</sub> fixing bacteria" -0.1186 0.7408
+4 "azospirillum" -0.6073 -0.4297
+5 "bacillus" -0.6612 -0.4513
+6 "dryland crops" -0.126 0.7984
+7 "irrigation" 0.6787 -0.2906
+8 "n<sub>2</sub> fixation" -0.5854 -0.4837
+9 "nodulation prosopis juliflora" 0.7547 -0.3211
+10 "rhizobium" 0.7014 -0.3442
+11 "wetland rice" -0.0607 0.7483
+12 "wild rice" -0.0683 0.8061
+*Edges
+1 4
+1 5
+1 8
+2 7
+2 9
+2 10
+3 6
+3 11
+3 12
+4 5
+4 8
+5 8
+6 11
+6 12
+7 9
+7 10
+9 10
+11 12

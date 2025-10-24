@@ -1,0 +1,69 @@
+﻿*Vertices 22
+1 "15n isotope dilution" 0.6308 -0.0148
+2 "arid lands" -0.2159 0.89
+3 "aspergillus" -0.7871 -0.1003
+4 "aspergillus nidulans group" -0.7438 -0.179
+5 "azospirillum" 0.6386 -0.156
+6 "bacillus" 0.6573 -0.123
+7 "desert microfungi" -0.7423 -0.1014
+8 "dinitrogen fixation" 0.5794 0.1053
+9 "drought stress" 0.67 0.1101
+10 "emericella" -0.7887 -0.178
+11 "enzyme linked immunosorbent assay" -0.0204 -0.9842
+12 "fababean" 0.5978 0.1514
+13 "irrigation" -0.2486 0.8745
+14 "lentil" 0.6471 0.154
+15 "n2 fixing pseudomonas strain h8" -0.0461 -0.9949
+16 "nitrogen fixation" 0.6148 -0.126
+17 "nodulationprosopis juliflora" -0.2312 0.9226
+18 "pea" 0.6258 0.0892
+19 "rhizobium" -0.2639 0.9072
+20 "rhizosphere" -0.0426 -0.9674
+21 "soil fungi" -0.8099 -0.1387
+22 "synoptic key" -0.7209 -0.1407
+*Edges
+1 5
+1 6
+1 8
+1 9
+1 12
+1 14
+1 16
+1 18
+2 13
+2 17
+2 19
+3 4
+3 7
+3 10
+3 21
+3 22
+4 7
+4 10
+4 21
+4 22
+5 6
+5 16
+6 16
+7 10
+7 21
+7 22
+8 9
+8 12
+8 14
+8 18
+9 12
+9 14
+9 18
+10 21
+10 22
+11 15
+11 20
+12 14
+12 18
+13 17
+13 19
+14 18
+15 20
+17 19
+21 22

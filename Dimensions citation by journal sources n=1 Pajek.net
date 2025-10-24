@@ -1,0 +1,347 @@
+﻿*Vertices 190
+1 "3 biotech" -0.0073 -0.9847
+2 "acta agriculturae slovenica" -0.3887 -0.7836
+3 "african journal of agricultural research" 0.1734 -0.5224
+4 "african journal of microbiology research" -0.9936 -0.0694
+5 "agricultural research" -0.1984 0.6946
+6 "agricultural water management" -0.0221 0.5909
+7 "agriculture" 0.21 0.5972
+8 "agro bali agricultural journal" -0.8643 -0.4844
+9 "agroforestry systems" 0.7552 -0.0692
+10 "agronomy" -0.0988 0.6167
+11 "agronomy for sustainable development" 0.0154 0.6212
+12 "agronomy journal" -0.7129 -0.688
+13 "alexandria journal of soil and water sciences" -0.8202 -0.5626
+14 "algal research" 0.2168 0.6144
+15 "analytical and bioanalytical chemistry" 0.426 -0.3115
+16 "annals of botany" -0.5011 -0.8506
+17 "annals of microbiology" -0.0719 0.6134
+18 "annals of plant and soil research" 0.5499 -0.8183
+19 "applied and environmental microbiology" 0.2431 0.5934
+20 "applied biochemistry and biotechnology" -0.8924 0.0987
+21 "applied soil ecology" -0.2775 0.5679
+22 "arab universities journal of agricultural sciences" 0.3296 -0.9266
+23 "arabian journal of geosciences" -0.9725 0.2531
+24 "archives of agronomy and soil science" 0.0271 0.531
+25 "archives of microbiology" -0.7587 -0.6224
+26 "arid land research and management" -0.1102 0.6519
+27 "asian journal of agriculture" 0.0651 -0.629
+28 "atom indonesia" -0.9967 0.098
+29 "austral ecology" 0.0818 0.5644
+30 "australian journal of experimental agriculture" -0.1767 -0.9692
+31 "biodegradation" -0.6449 -0.7538
+32 "biological control" -0.9377 -0.3271
+33 "biology and fertility of soils" 0.2482 0.6868
+34 "biomed research international" -0.1776 0.6727
+35 "bmc microbiology" 0.0254 0.5525
+36 "botany" 0.5853 -0.353
+37 "brazilian journal of microbiology" 0.2501 0.6884
+38 "canadian journal of microbiology" -0.8484 -0.2649
+39 "canadian journal of plant science" -0.5741 -0.8044
+40 "canadian journal of soil science" 0.1987 -0.8706
+41 "catena" -0.8634 0.1908
+42 "cereal research communications" -0.1919 0.6877
+43 "chemical and biological technologies in agriculture" 0.8148 -0.5775
+44 "chilean journal of agricultural research" 0.0272 0.5293
+45 "ciíªncia rural" 0.8794 0.2016
+46 "communications in soil science and plant analysis" -0.0934 -0.9848
+47 "crop and pasture science" -0.0872 0.5676
+48 "crop research" -0.2656 -0.9573
+49 "current journal of applied science and technology" -0.4259 -0.8911
+50 "current microbiology" -0.1532 -0.6614
+51 "egyptian journal of agronomy" 0.9108 0.0605
+52 "egyptian journal of botany" -0.1114 -0.3792
+53 "egyptian journal of desert research" 0.8869 0.3032
+54 "environmental earth sciences" 0.0882 0.5594
+55 "environmental microbiology" -0.2764 0.5654
+56 "environmental science and pollution research" -0.2325 -0.8259
+57 "environmental science and technology" -0.7316 -0.0968
+58 "environmental sustainability" -0.2001 0.6963
+59 "european journal of phycology" 0.3155 0.5895
+60 "european journal of soil biology" 0.3538 0.5872
+61 "extremophiles" -0.6392 -0.3801
+62 "fems microbiology ecology" -0.1803 0.615
+63 "fems microbiology letters" -0.2645 0.5883
+64 "field crops research" 0.0082 0.6121
+65 "frontiers in environmental microbiology" 0.2728 -0.6547
+66 "frontiers in environmental science" 0.2006 0.584
+67 "frontiers in microbiology" -0.2487 0.5872
+68 "frontiers in plant science" -0.2662 0.5569
+69 "frontiers in sustainable food systems" -0.1401 0.6161
+70 "functional plant biology" -0.9033 0.4759
+71 "fungal systematics and evolution" -0.4696 -0.589
+72 "geoderma" 0.1984 0.5996
+73 "geomicrobiology journal" 1.0005 0.0846
+74 "global ecology and biogeography" 0.9121 0.4425
+75 "heliyon" -0.0755 -0.8788
+76 "indian journal of agronomy" 0.524 -0.2203
+77 "indian journal of dryland agricultural research and development" 0.9831 0.164
+78 "indian journal of microbiology" 0.6424 -0.2079
+79 "industrial crops and products" -0.1647 0.5565
+80 "international journal of advanced engineering management and science" 0.251 -0.959
+81 "international journal of agriculture environment and bioresearch" 0.9234 0.3857
+82 "international journal of horticulture agriculture and food science" 0.6236 -0.7714
+83 "international journal of plant biology" 0.3084 -0.8004
+84 "international journal of science technology & management" -0.9579 0.3359
+85 "international journal of statistics and applied mathematics" -0.7917 0.053
+86 "international journal of systematic and evolutionary microbiology" -0.5034 -0.2628
+87 "international journal of tropical drylands" 0.9748 0.2409
+88 "iop conference series earth and environmental science" -0.0425 -0.5247
+89 "iop conference series materials science and engineering" 0.1596 -0.9743
+90 "journal of advanced research" 0.3638 0.5867
+91 "journal of agricultural science" 0.4229 -0.6149
+92 "journal of agronomy" 0.3023 -0.3396
+93 "journal of applied ecology" 0.1146 0.5727
+94 "journal of applied phycology" 0.2221 0.606
+95 "journal of arid environments" 0.7552 -0.0691
+96 "journal of arid land" -0.1978 0.6093
+97 "journal of biotechnology" -0.8908 -0.0229
+98 "journal of crop production and processing" -0.5934 -0.1819
+99 "journal of degraded and mining lands management" 0.0338 -0.3912
+100 "journal of environmental biology" 0.8973 0.4995
+101 "journal of environmental management" 0.1956 0.5927
+102 "journal of essential oil bearing plants" -0.495 -0.7238
+103 "journal of forestry research" 0.0763 -0.9834
+104 "journal of fungi" -0.1925 0.5639
+105 "journal of global sustainable agriculture" -0.0331 -0.7489
+106 "journal of hydrology" 0.1389 0.5682
+107 "journal of pharmacognosy and phytochemistry" -0.6102 -0.6583
+108 "journal of phycology" 0.269 0.5933
+109 "journal of plant growth regulation" 0.0989 0.6114
+110 "journal of plant interactions" -0.1773 0.6145
+111 "journal of plant nutrition" 0.5423 -0.6974
+112 "journal of plant pathology" -0.7389 -0.4997
+113 "journal of soil science and plant nutrition" 0.1021 0.6149
+114 "journal of soils and sediments" -0.9033 0.4759
+115 "journal of sustainable agriculture and environment" 0.2052 0.6024
+116 "journal of the saudi society of agricultural sciences" 0.9944 -0.117
+117 "journal of tropical soils" -0.9639 -0.243
+118 "jurnal agro" 0.1472 -0.7503
+119 "jurnal agronomi tanaman tropika (juatika)" -0.9054 -0.4062
+120 "jurnal biologi tropis" 0.9502 -0.2882
+121 "jurnal hortikultura" 0.4797 -0.8633
+122 "jurnal penelitian pendidikan ipa" 0.8765 -0.2064
+123 "jurnal pengkajian dan pengembangan teknologi pertanian" 0.744 -0.6612
+124 "kne life sciences" 1.0032 -0.008
+125 "land degradation and development" 0.1772 0.5878
+126 "legume research - an international journal" 0.975 -0.2016
+127 "madras agricultural journal" 0.5949 -0.583
+128 "magna scientia advanced research and reviews" -0.3817 -0.3105
+129 "mbio" -0.9151 0.3868
+130 "microbial ecology" 0.2576 0.5945
+131 "microbiological research" 0.3598 0.5869
+132 "microbiology" 0.6756 -0.7072
+133 "microbiology and molecular biology reviews" 0.0252 0.5567
+134 "microorganisms" 0.026 0.5527
+135 "molecular biology reports" 0.4923 -0.4709
+136 "molecules" 0.1685 -0.3741
+137 "mycologia" 0.8292 -0.4965
+138 "mycorrhiza" 0.0099 0.6036
+139 "nepal journal of science and technology" 0.9629 0.3229
+140 "new phytologist" -0.1087 0.6494
+141 "nitrogen" -0.2325 -0.8259
+142 "notulae botanicae horti agrobotanici cluj-napoca" 0.8266 0.1109
+143 "online journal of biological sciences" -0.3601 -0.4798
+144 "open agriculture" -0.2895 0.5467
+145 "pakistan journal of biotechnology" -0.9971 0.0153
+146 "pakistan journal of botany" -0.5037 -0.4225
+147 "pakistan journal of nutrition" 0.3335 -0.4856
+148 "peerj" 0.7212 -0.5715
+149 "phyton" -0.2919 0.5456
+150 "phytoparasitica" 0.4247 -0.7606
+151 "phytopathology" -0.7316 -0.0967
+152 "plant and cell physiology" -0.8883 0.2887
+153 "plant and soil" 0.1615 0.6152
+154 "plant biology" 0.6785 -0.4574
+155 "plant ecology & diversity" 0.7551 -0.0689
+156 "plant growth regulation" -0.0333 0.6141
+157 "plant physiology and biochemistry" -0.0046 0.6282
+158 "plant production science" -0.2111 -0.5177
+159 "plant signaling & behavior" -0.1499 0.6651
+160 "planta" -0.2511 -0.3553
+161 "plants" 0.9221 -0.3672
+162 "plos one" -0.264 0.5864
+163 "proceedings of the new zealand grassland association" -0.7105 -0.2666
+164 "proceedings of the pakistan academy of sciences b life and environmental sciences" -0.3484 -0.9227
+165 "research in plant disease" -0.986 -0.1561
+166 "research journal of microbiology" 0.9301 -0.0633
+167 "restoration ecology" 0.17 0.598
+168 "revista ceres" 0.7839 -0.3313
+169 "rhizosphere" -0.1803 0.6153
+170 "saudi journal of biological sciences" -0.3524 0.5837
+171 "scientia horticulturae" -0.2655 0.587
+172 "scientific reports" -0.3366 0.5842
+173 "soil and tillage research" 0.2202 0.5961
+174 "soil biology and biochemistry" 0.3003 0.5904
+175 "soil microorganisms" -0.9827 0.178
+176 "south african journal of botany" -0.023 0.5903
+177 "stress biology" -0.8865 -0.1473
+178 "studia ecologiae et bioethicae" -0.3551 0.5836
+179 "sustainability" 0.1639 0.5688
+180 "symbiosis" -0.161 0.5598
+181 "systematic and applied microbiology" -0.6211 -0.5375
+182 "the arab journal of sciences and research publishing" -0.3233 -0.6525
+183 "the indian journal of agricultural sciences" 0.0587 -0.8702
+184 "the isme journal: multidisciplinary journal of microbial ecology" 0.2224 0.593
+185 "the journal of agricultural science" 0.7839 -0.3313
+186 "the pharma innovation" -0.7982 -0.3861
+187 "the science of the total environment" 0.1587 0.5983
+188 "tree physiology" 0.4046 -0.897
+189 "trends in sciences" 0.8888 -0.4469
+190 "world journal of microbiology and biotechnology" -0.086 0.5609
+*Edges
+5 42 1
+5 58 1
+6 47 1
+6 64 1
+6 138 1
+6 176 1
+6 187 1
+7 66 1
+7 94 1
+7 109 1
+7 125 1
+7 130 1
+7 173 1
+7 187 1
+9 95 1
+10 17 1
+10 69 1
+10 133 1
+10 140 1
+11 64 1
+11 157 1
+11 187 1
+14 94 1
+14 153 1
+17 67 1
+17 156 1
+19 101 1
+19 130 2
+19 167 2
+19 174 1
+19 184 1
+19 187 1
+21 55 1
+21 67 1
+24 44 1
+24 133 1
+26 140 1
+29 93 1
+29 133 1
+33 37 1
+33 153 1
+34 42 1
+34 67 1
+34 159 1
+35 133 1
+47 180 1
+47 190 1
+54 106 1
+54 133 1
+55 67 1
+55 68 1
+56 141 1
+57 151 1
+59 174 1
+60 131 1
+60 174 1
+62 110 1
+63 67 1
+64 138 1
+64 157 1
+64 187 1
+66 72 1
+66 94 1
+66 101 2
+66 106 1
+66 115 1
+66 153 1
+66 167 2
+66 173 1
+66 174 2
+66 179 1
+66 187 1
+67 68 2
+67 96 1
+67 104 1
+67 162 2
+67 171 1
+67 172 2
+67 180 1
+68 144 1
+68 180 1
+69 110 1
+70 114 1
+72 101 2
+72 153 2
+72 167 1
+72 173 1
+72 187 3
+79 180 1
+90 131 1
+93 101 1
+93 125 1
+93 153 1
+93 167 1
+94 101 1
+94 115 1
+94 153 1
+94 173 1
+94 174 1
+94 187 2
+95 155 1
+96 110 1
+101 115 1
+101 125 2
+101 153 2
+101 167 2
+101 173 2
+101 187 3
+104 180 1
+106 125 1
+106 153 1
+106 179 1
+106 187 2
+108 130 1
+108 173 1
+108 174 1
+109 113 1
+109 115 1
+109 125 1
+109 153 2
+109 156 1
+109 167 1
+109 173 1
+109 187 1
+110 169 1
+115 153 1
+115 167 1
+115 174 1
+125 153 1
+125 167 2
+125 173 1
+125 174 1
+125 187 1
+130 153 1
+130 174 1
+131 174 1
+133 134 1
+133 153 1
+133 190 1
+138 153 1
+140 157 1
+140 159 1
+144 149 1
+153 157 1
+153 167 2
+153 187 3
+157 167 1
+167 174 1
+167 187 2
+168 185 1
+170 172 1
+170 178 1
+173 187 2
+180 190 1
+184 187 3

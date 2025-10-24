@@ -1,0 +1,90 @@
+﻿*Vertices 46
+1 "al-maliki, salwan" 0.1113 0.902
+2 "ashraf, muhammad" 0.1789 -0.3231
+3 "bashan, yoav" -0.2406 0.2126
+4 "birhane, emiru" -0.8209 -0.3192
+5 "cantón, y." 0.7531 -0.0014
+6 "chamizo, sonia" 0.7521 -0.0039
+7 "de freitas, ana dolores santiago" -0.3979 -0.7585
+8 "de philippis, roberto" 0.752 -0.0021
+9 "do nascimento, tailane ribeiro" -0.7039 -0.582
+10 "duan, hai-xia" -0.2382 0.7892
+11 "erickson, todd e." 0.7501 0.0001
+12 "escobar, indra elena costa" -0.3979 -0.7581
+13 "fernandes-júnior, paulo ivan" -0.3977 -0.7582
+14 "gao, xiang" 0.2194 -0.6438
+15 "garcia-pichel, ferran" -0.4227 -0.0899
+16 "hayat, rifat" 0.0726 0.079
+17 "he, chao" 0.4652 0.6731
+18 "he, xueli" 0.4636 0.6734
+19 "hirt, heribert" -0.0055 -0.8875
+20 "hou, junling" 0.4669 0.6724
+21 "johansen, jeffrey r." 0.5831 -0.6452
+22 "khan, abdul latif" -0.8217 0.1362
+23 "kuske, cheryl r." -0.0821 -0.5233
+24 "li, li" -0.8212 0.1334
+25 "li, xianen" 0.4678 0.6726
+26 "liu, yonghong" -0.8201 0.1342
+27 "ma, jinbiao" -0.8197 0.1314
+28 "martins, lindete míria vieira" -0.1429 -0.2061
+29 "mavrodi, dmitri v." 0.299 -0.8703
+30 "mavrodi, olga v." 0.0345 0.4009
+31 "muñoz-rojas, m." 0.7527 -0.0059
+32 "muñoz-rojas, miriam" 0.7525 0.0006
+33 "norgrove, lindsey" -0.8209 -0.3194
+34 "osorio-santos, karina" 0.5819 -0.6446
+35 "pietrasiak, nicole" 0.5831 -0.6438
+36 "qin, shugao" -0.4707 0.4144
+37 "román, j.r." 0.7503 -0.0021
+38 "roncero-ramos, b." 0.7512 0.0004
+39 "saad, maged m." -0.0056 -0.8875
+40 "thomashow, linda s." -0.6145 0.6721
+41 "wang, wenquan" 0.4671 0.6731
+42 "wang, zhi-ye" -0.2395 0.7907
+43 "weller, david m." -0.7431 0.5227
+44 "xiong, you-cai" -0.2404 0.7888
+45 "zhang, yuqing" -0.5 -0.3873
+46 "zhu, ying" -0.241 0.79
+*Edges
+4 33 3
+5 6 2
+5 8 2
+5 11 1
+5 32 1
+6 31 1
+6 37 2
+6 38 1
+7 12 1
+7 13 1
+8 11 1
+8 31 1
+8 32 2
+8 37 2
+8 38 1
+10 42 2
+10 44 2
+10 46 2
+11 37 1
+11 38 1
+12 13 2
+17 18 2
+17 20 2
+17 25 1
+17 41 2
+19 39 2
+20 25 1
+20 41 2
+21 34 6
+21 35 6
+22 24 1
+22 26 1
+24 26 8
+24 27 7
+25 41 1
+26 27 6
+32 37 1
+32 38 1
+34 35 6
+42 44 6
+42 46 5
+44 46 7

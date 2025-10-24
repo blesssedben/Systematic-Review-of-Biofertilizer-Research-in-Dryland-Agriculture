@@ -1,0 +1,4365 @@
+﻿*Vertices 1018
+1 "1-aminocyclopropane-1-carboxylate (acc) deaminase" -0.1776 -0.1984
+2 "1-aminocyclopropane-1-carboxylic acid" 0.9527 0.8002
+3 "15n" 0.3306 -0.0755
+4 "15n isotope dilution" 0.1839 0.1407
+5 "16s rdna" -1.0007 0.7667
+6 "16s rrna" -0.218 0.1594
+7 "16s rrna gene" -0.1884 0.5324
+8 "16s-23s its" -0.2517 0.6432
+9 "3" 1.0548 -0.4482
+10 "5" 1.0475 -0.4454
+11 "6-trichloro-2-pyridinol" 1.0527 -0.4339
+12 "?-aminobutyric acid" -0.0801 0.1522
+13 "?13 c" -0.3067 -1.2538
+14 "?15 n" -0.3019 -1.2535
+15 "?18 o" -0.3019 -1.2481
+16 "aba" -0.0761 -0.4367
+17 "abiotic stress" -0.1841 -0.4984
+18 "abronia macrocarpa" -0.5827 -1.1586
+19 "abundant taxa" -0.3503 -0.8787
+20 "acacia spp" -0.1308 0.2238
+21 "acc" 0.9508 0.8128
+22 "acc deaminase" 0.0767 -0.1487
+23 "acc- deaminase" -0.0312 -0.5391
+24 "acc-deaminse" 0.321 -0.6168
+25 "accdeaminase" 0.0331 -0.3192
+26 "accumulator ornamental species" 1.1745 0.5504
+27 "acetylene reduction activity" 0.9545 0.8072
+28 "acid buffering" -0.168 0.9697
+29 "acid soil" -0.3693 -0.5143
+30 "actinobacteria" 0.0396 0.4923
+31 "actinomyces" 0.0029 1.0042
+32 "actinomycetia" -0.3532 -0.8726
+33 "affective" -1.1851 -0.4802
+34 "agave lechuguilla" 0.9834 -0.4386
+35 "aggregate stability" -1.0975 -0.6982
+36 "agricultural fertilizers" 0.0225 0.6718
+37 "agricultural productivity" -0.0577 -0.2368
+38 "agricultural soil" -1.0883 -0.7013
+39 "agriculture" -0.4932 -0.0352
+40 "agroecology" -0.1179 -0.2062
+41 "agroecosystem" 0.0807 0.0521
+42 "agronomic crops" -0.245 -0.5477
+43 "alfalfa" -0.3295 0.0487
+44 "algae" -0.1116 -0.672
+45 "allium cepa ascalonicum" -0.0419 -0.8014
+46 "aloe vera" -0.6089 -0.5688
+47 "aloin" -0.6011 -0.5806
+48 "alosca®" -0.4659 0.1369
+49 "am colonization" -0.8256 -0.7405
+50 "amaranthus cruentus" 0.6275 -0.5376
+51 "ambient ionization" 0.4605 0.7612
+52 "amf" 0.6193 -0.8701
+53 "amf-pgpr co-inoculation" 0.118 -0.1359
+54 "amplified rdna restriction analysis" 0.9436 0.8133
+55 "anabaena" 0.6312 -0.5319
+56 "anaerobic incubation" 1.047 -0.4382
+57 "anatolia" 0.1208 -0.6653
+58 "ancient algal mats" -0.5023 0.0624
+59 "annual medicago" 0.411 0.4148
+60 "annual medics" 0.852 -0.4224
+61 "annual plants" -0.4815 0.4638
+62 "antagonism" 0.555 -0.1627
+63 "antagonistic activity" -0.3626 -0.6064
+64 "antarctica" -0.5065 0.0666
+65 "anti-fungal activity" -0.5068 0.6872
+66 "antibacterial activity" 0.2744 0.4565
+67 "antibacterial and antifungal potential" 0.6512 1.1092
+68 "antibiotics" 0.4443 0.7006
+69 "antidepressants" -1.1856 -0.4854
+70 "antimicrobial activity" 0.0178 0.5811
+71 "antioxidant" -0.9535 -0.1477
+72 "antioxidant activity" -0.3205 0.2084
+73 "antioxidant enzymes" -0.1693 0.1739
+74 "antioxidant status" 0.3599 -0.0119
+75 "antioxidants" -0.1041 -0.4136
+76 "aqua placement" 0.3738 -0.625
+77 "ara" 0.9394 0.8013
+78 "arabidopsis thaliana" -0.447 0.3222
+79 "arachis hypogaea" -0.5918 0.006
+80 "arbuscular mycorrhiza fungi inoculation" 0.3979 -0.9328
+81 "arbuscular mycorrhizal fungi" -0.0899 -0.1817
+82 "arbuscular mycorrhizal fungi (amf)" 0.2066 0.0177
+83 "ardra" 0.9394 0.8084
+84 "argania spinosa" -0.3211 -0.3372
+85 "arid adaption" -0.1919 -0.0274
+86 "arid desert" 1.1856 0.1867
+87 "arid ecosystem" -0.2289 0.0196
+88 "arid environments" -0.0556 0.4895
+89 "arid land" -0.7912 0.3742
+90 "arid lands" 0.2455 0.5122
+91 "arid soil" -0.1777 -0.5136
+92 "arid soils" -0.272 0.4665
+93 "artemisia ordosica" 0.2894 0.0319
+94 "aspergillus" 1.2367 0.3443
+95 "aspergillus nidulans group" 1.2317 0.345
+96 "associative nitrogen fixation" 1.1898 0.1794
+97 "astragalus mongholicus" 0.2304 -0.4794
+98 "ata-cama desert" -0.2086 0.658
+99 "atacama desert" -0.2833 0.6157
+100 "atmospheric co2" 1.3037 0.055
+101 "autotrophic organisms" -0.1974 1.0629
+102 "auxin" 0.1496 -0.0216
+103 "auxin production" 0.2546 -0.1847
+104 "auxins" -0.3081 0.8164
+105 "available phosphorus" 0.2068 -0.7635
+106 "azolla" 0.6195 -0.5368
+107 "azospilrllum" 0.1562 -0.569
+108 "azospirillum" 0.0945 -0.0361
+109 "azospirillum argentinense az39t genome" -0.3659 -0.8364
+110 "azospirillum brasillense (mtcc-125)" -0.3834 0.1049
+111 "azotobacter" 0.1377 -0.5174
+112 "bacillaceae" -0.8453 0.0573
+113 "bacillus" 0.0767 0.2377
+114 "bacillus amylolyticus" -0.1237 0.1877
+115 "bacillus cereus" 0.4108 0.297
+116 "bacillus mycoides isolate bmj" 0.4164 0.6907
+117 "bacillus spp" -0.6993 -0.1354
+118 "bacillus subtilis" -0.3734 -0.6066
+119 "bacteria" -0.361 0.0473
+120 "bacterial biomass c" -0.1115 -0.6653
+121 "bacterial community" 1.0183 -0.4378
+122 "bacterial consortia" 0.3212 -0.6098
+123 "bacterial diversity" 0.45 -0.2063
+124 "bacterial inoculation" -0.7793 -0.1014
+125 "bacterial polyphase classification" 0.0443 0.8398
+126 "bacterial strain" 1.3041 0.0601
+127 "bacterization" 0.1705 -0.4718
+128 "bajara dry land" 0.0016 -0.6067
+129 "bare seed" -0.47 0.1468
+130 "barnyard grass" -0.7816 -0.0653
+131 "bat-associated fungi" -1.051 0.7123
+132 "bayesian mcmc approach" -0.386 0.566
+133 "bene?cial bacterium" 0.8373 0.0837
+134 "beneficial microbes" 0.4836 -0.6341
+135 "beta-rhizobia" -0.8001 0.0764
+136 "bio fertilizer" -0.8269 0.388
+137 "bio fertilizers" 0.4897 1.2262
+138 "bio-crust" 0.2585 0.7341
+139 "bio-enriched fym" 0.8177 -0.4818
+140 "bio-fertilizers" 0.2846 -0.6428
+141 "bio-geotechnics" 0.2705 0.733
+142 "bio-inoculant" -0.6777 -0.0722
+143 "bio-priming" -0.0324 0.6817
+144 "bioassay" 1.018 0.6513
+145 "biochar" -0.3094 -0.4557
+146 "biochemical characteristics" 0.2684 0.4484
+147 "biochemical response" -0.3108 -0.338
+148 "biocontrol" 0.3378 0.2629
+149 "biocrust" 0.0334 0.7649
+150 "biocrust cyanobacteria inoculation" -1.0919 -0.6962
+151 "biocrust development" -0.1933 1.0672
+152 "biocrust restoration" -0.016 0.9007
+153 "biocrusts" -0.1448 0.682
+154 "biofertiliser" 0.3784 -0.4327
+155 "biofertilization" 0.3904 -0.879
+156 "biofertilizer" -0.3857 -0.4004
+157 "biofertilizer (azospirillum + psb)" 0.4671 -0.8175
+158 "biofertilizers" 0.3846 -0.1784
+159 "biofilm" -0.8506 0.9595
+160 "bioinoculants" -0.1956 -0.0297
+161 "biological control" 0.3621 0.6538
+162 "biological control agents" -1.2949 0.0072
+163 "biological crusts" -0.0848 0.4549
+164 "biological fertilizer" -0.3744 -0.514
+165 "biological nitrogen fixation" -0.7813 0.0922
+166 "biological soil crust" 0.1149 0.8502
+167 "biological soil crusts" -0.238 0.6639
+168 "biological stabilization" -0.5804 1.1664
+169 "biological-products" -0.2654 -0.6295
+170 "bioplastic" -1.1774 0.4343
+171 "biopriming" -0.309 0.8088
+172 "bioreclamation" -0.2293 0.4635
+173 "biosynthetic gene clusters" 0.1144 0.3589
+174 "bio­inoculant" 0.1666 -0.4755
+175 "black gram" 0.2486 -0.5923
+176 "boswellia" -0.4644 -0.2276
+177 "boswellia sacra" 1.1686 0.0042
+178 "bradyrhizobium" -0.1271 0.2331
+179 "brassica oleracea" 0.6221 -0.5434
+180 "brazilian semiarid region" -0.7998 0.0817
+181 "burkholderia cepacia" 0.2435 -0.0772
+182 "caatinga" -0.8181 0.0875
+183 "cacia" -0.467 -0.2337
+184 "cajanus cajan" 0.6627 -0.2146
+185 "calcareous soil" 0.193 -0.7746
+186 "calcite" 1.3005 0.0628
+187 "calotropis procera" 0.3966 -0.928
+188 "capsicum frutescens" -0.5717 -0.2203
+189 "carbon loss" 0.2156 1.0316
+190 "carbon mineralization" -0.1048 -0.663
+191 "carbon sequestration" -0.0069 0.1614
+192 "carbonate precipitates" 1.2989 0.0549
+193 "carrageenan" -1.1803 0.4292
+194 "carrier media" -0.0353 -1.2932
+195 "cedrus libani" 0.1173 -0.662
+196 "chicken manure" 0.3841 -0.8814
+197 "chickpea" 0.3454 -0.564
+198 "chlorella" 0.0588 0.2691
+199 "chlorophyll" -0.6244 -0.556
+200 "chroococcidiopsis" -0.9893 -0.1533
+201 "climate" 0.0949 0.1643
+202 "climate change" -0.3145 -0.3326
+203 "clusterbean" -0.1734 -0.5183
+204 "co-inoculation" 0.1995 -0.505
+205 "co-occurrence network" 0.5985 0.1844
+206 "co-occurrence networks" 0.9802 -0.4344
+207 "coal mining subsidence" 0.1259 -0.4286
+208 "coastal sage scrub" -0.2838 0.6252
+209 "coated seed" -0.4766 0.145
+210 "colonization rate" 0.1236 -0.4354
+211 "colony features" 0.2734 0.4501
+212 "colorado desert;cryptic species" -0.2108 0.6644
+213 "common bean" 0.2112 0.231
+214 "community assembly" 0.5979 0.1912
+215 "community structures" -0.3015 0.9263
+216 "compatible solute" 0.2318 0.2497
+217 "competition" -0.1055 -0.0701
+218 "competitiveness" 0.3695 -0.7703
+219 "compost" 0.1468 -0.5682
+220 "conservation" -0.5827 -1.1548
+221 "container system" 0.827 0.9705
+222 "corn genotype" 0.4945 1.2256
+223 "cotton" 0.4248 -0.4521
+224 "cotton and drylands agriculture" 0.1551 -0.7499
+225 "cowpea" 0.3787 -0.8293
+226 "critical dryland" -0.7353 0.1561
+227 "crop production" -0.3163 -0.3882
+228 "crop yield" -0.333 -0.0476
+229 "crop yield improvement" -0.3651 -0.8426
+230 "cross-nodulation" 0.6626 -0.2258
+231 "cryptic genera" -0.2751 0.625
+232 "cryptic species" -0.2735 0.6156
+233 "cultivars" 0.3821 -0.1107
+234 "cultivation" -0.1849 0.7199
+235 "culturable diazotrophs" -0.3616 -0.878
+236 "culture medium" 1.0164 0.6436
+237 "cyanobacteria" -0.1456 0.6477
+238 "cyanobacteria biomass" -0.4835 0.4544
+239 "cyanobacteria exudate" -0.4879 0.4618
+240 "cyanobacteria inoculation" 0.0446 0.724
+241 "cyanobacteria morphologies" 1.2536 -0.1344
+242 "cyanobacterization" 0.1876 0.6219
+243 "cyanoprokaryotes" 0.6566 1.1072
+244 "cyanosphere" -0.024 0.8156
+245 "damping-off" 0.4101 0.3025
+246 "dark septate endophyte" 0.2325 -0.4752
+247 "dark septate endophytes" -0.0142 -0.1786
+248 "degradation" 1.0529 -0.4414
+249 "degraded area" 0.2488 0.9277
+250 "degraded dryland soils" -0.1781 0.7171
+251 "degraded soil" 0.2495 0.9331
+252 "delayed inoculation" 0.4144 0.4088
+253 "depression" -1.1899 -0.4888
+254 "desert" -0.3566 -0.8808
+255 "desert crust restoration" -0.089 0.4591
+256 "desert ecosystem" -0.0534 -0.0526
+257 "desert microfungi" 1.2276 0.3515
+258 "desert organisms" 1.2515 -0.1382
+259 "desert plants" -0.2016 -0.4701
+260 "desert soils" 0.1213 0.0701
+261 "desertification" 0.8124 0.317
+262 "desertilication" -0.2323 0.469
+263 "deserts" -0.3549 0.486
+264 "desorption electrospray ionization (desi)" 0.4693 0.7632
+265 "diazotroph inoculation" -0.3397 -0.0502
+266 "dinitrogen fixation" 0.2057 0.1251
+267 "direct isolation" -1.0197 0.7668
+268 "direct-seeding" -0.1205 0.226
+269 "disturbed soils" -0.2656 0.1023
+270 "diversity" 0.0446 0.5984
+271 "dizatrophic bacteria" 0.4428 -0.7886
+272 "dormancy" -0.5069 0.0598
+273 "draft genome" 1.1655 0.0011
+274 "drought" -0.0571 -0.1707
+275 "drought acclimation" -0.1191 -0.3977
+276 "drought and salinity stress" 0.3687 0.8219
+277 "drought resilience" -0.1713 -0.5123
+278 "drought resistance" 0.0181 0.005
+279 "drought stress" 0.1293 -0.0708
+280 "drought stress response" 0.8413 0.0842
+281 "drought stress tolerance" -0.7877 -0.0665
+282 "drought tolerance" -0.1642 0.1103
+283 "dry deciduous woodland" -0.3561 -0.1994
+284 "dry land" 0.8029 -0.4714
+285 "dry placement" 0.3795 -0.6191
+286 "dryland" 0.3076 -0.4943
+287 "dryland adaptability" -0.4282 -0.5719
+288 "dryland agriculture" 0.3276 -0.0789
+289 "dryland farming" 0.2013 -0.2632
+290 "dryland improvement" -0.3219 -0.3884
+291 "dryland soil" 1.0585 -0.4404
+292 "dryland soils" 1.0803 0.433
+293 "dryland wheat" 0.2074 -0.3431
+294 "drylands" 0.0133 0.7106
+295 "dust" -0.5846 1.169
+296 "dust deposition" 0.1659 0.9257
+297 "earlier growth stage" -0.1118 -0.3955
+298 "echinochloa frumentacea" 0.2301 -0.665
+299 "ecoenzymatic stoichiometry" 0.624 0.2049
+300 "ecological restoration" 0.2971 0.0255
+301 "ecological succession" 0.2145 1.0453
+302 "ecomposition" -1.2706 0.1931
+303 "economic value" -0.4284 -0.5782
+304 "economics" -0.7979 -0.7797
+305 "ecophysiology" -0.861 -0.1272
+306 "ecosystem functions" 0.0472 0.7733
+307 "ecosystem restoration" 0.0705 0.7353
+308 "ecosystem services" 0.2239 1.0321
+309 "ectomycorrhiza" -0.3636 -0.1653
+310 "elements" 0.2691 0.4583
+311 "emericella" 1.2254 0.3464
+312 "endangered species" -0.4782 0.6555
+313 "endolithic cyanobacteria" -0.9922 -0.162
+314 "endomycorrhiza" 0.3816 -0.4367
+315 "endophyte (dse)" -0.8638 -0.1225
+316 "endophytes" -0.2359 -0.416
+317 "endophytic actinobacteria" 0.0349 0.6016
+318 "endophytic bacteria" -0.4614 0.6386
+319 "endophytic fungi" 0.396 0.8153
+320 "endosphere" -0.2253 0.0279
+321 "ensifer" 0.5818 -0.325
+322 "ensifer meliloti" -0.4714 0.1332
+323 "enterobacteriaceae" -0.7848 0.0174
+324 "environment-friendly" -0.2257 -0.3375
+325 "environment-friendly technology" -0.8262 0.3929
+326 "environmental adaptation" -0.7456 1.0621
+327 "environmental microbiology" 0.0382 0.6062
+328 "environmental stress reduction" 1.0715 -0.7672
+329 "environmentally friendly agriculture" -0.2433 -0.5406
+330 "enzyme inhibition" 0.4207 0.8138
+331 "enzyme linked immunosorbent assay" -0.3076 0.0809
+332 "epacridaceae" -0.3106 -0.0958
+333 "eps" -0.018 0.3468
+334 "equivalent yield" -0.795 -0.7745
+335 "ericoid mycorrhizas" -0.3148 -0.0988
+336 "erosion function apparatus" 0.2603 0.7411
+337 "essential oil" -0.2022 -0.0743
+338 "ethylene" -0.186 -0.2008
+339 "ethylene metabolism" -0.4857 -0.0742
+340 "exercise" -1.1909 -0.4822
+341 "exiguobacterium indicum" 0.4051 0.2959
+342 "exopolysaccharide" -0.1258 0.7713
+343 "exopolysaccharides" -0.1825 1.0268
+344 "extracellular polysaccharide" 0.04 0.8368
+345 "extruded pellets" -0.1947 0.3216
+346 "fababean" 0.2118 0.1251
+347 "fabaceae" -0.5472 -0.4027
+348 "faidherbia albida" -0.0808 -0.3454
+349 "farmyard manure" 0.3901 -0.8924
+350 "fatty acids" -0.0771 0.1597
+351 "fenps" 0.6446 -0.8937
+352 "fenton reaction" -0.4994 -0.0377
+353 "fertilizer" 0.6296 -0.545
+354 "fertilizer treatment" -0.0816 0.0853
+355 "ferula sinkiangensis" -0.4827 0.6566
+356 "field experiment" 0.5961 -0.8419
+357 "field pea" 0.0764 0.0593
+358 "field trials" 0.3217 0.3947
+359 "figuig oasis" -0.1532 0.0533
+360 "finger mille" 0.8193 -0.4764
+361 "firmicutes" 0.2226 1.0455
+362 "flocculation" -0.3868 0.1003
+363 "foliar spray inoculation" 0.0639 -0.0962
+364 "fragaria ananassa" 0.2543 -0.1804
+365 "free-living and associated diazotrophs" 0.9417 -0.4265
+366 "fruit fibre productivity" 0.3928 -0.9313
+367 "fruit yield" -0.0915 -0.436
+368 "functional ecology" -1.2637 -0.244
+369 "functional traits" 0.0992 0.1687
+370 "fungi" -0.0596 0.1052
+371 "fusarium crown rot" 0.4062 0.6928
+372 "fym" 0.4656 -0.812
+373 "gac/rsm global regulation" -0.8529 0.958
+374 "gaeumannomyces" 0.4157 0.6276
+375 "gel weight" -0.6022 -0.5866
+376 "genista cinerea" -0.3808 0.5646
+377 "genome sequencing" -1.007 0.7715
+378 "genomics" -0.1177 0.7686
+379 "genotype" -0.0979 -0.7221
+380 "gerbera jamesonii cv" 0.1508 -0.5733
+381 "germination" -0.4788 0.4587
+382 "glomalin-related soil protein" 0.6119 0.1948
+383 "gluten" -0.2617 -0.4311
+384 "glycine max" -0.5926 0.316
+385 "glycyrrhiza glabra" -0.2076 -0.0748
+386 "gogo rice" 0.2887 -0.5011
+387 "grain filling" 0.6201 0.0646
+388 "grain production" -0.0045 0.1675
+389 "grain protein" 0.3019 -0.4159
+390 "grain yield" 0.3413 -0.4246
+391 "grain yield components" -0.5285 -0.4975
+392 "grassland" 0.5573 -0.6671
+393 "gray water" 1.1737 0.5584
+394 "green eggplant" 1.086 0.4325
+395 "green infrastructure" 1.1714 0.554
+396 "grey alder" -0.3635 -0.1584
+397 "groundnut" -0.0314 -0.5347
+398 "growing season" 0.4901 1.2218
+399 "growth" 0.329 -0.4903
+400 "growth indicator" -0.7182 -0.6874
+401 "growth model restoration" 0.1205 0.9511
+402 "growth parameters" -0.8153 -0.7397
+403 "growth performance" -0.0861 -0.3862
+404 "growth promoters" -0.0017 1.0123
+405 "growth promoting" -0.4795 0.6597
+406 "growth promotion" 0.0132 0.2987
+407 "growth trait" -0.7222 -0.6928
+408 "growth-promoting bacteria" -0.2242 -0.2823
+409 "gypsophiles" -1.2722 -0.2442
+410 "gypsovags" -1.2651 -0.2388
+411 "gypsum" -0.9936 -0.156
+412 "habitat amelioration" -0.2358 0.5772
+413 "halimodendron halodendron (pall) voss" -0.2189 -0.2742
+414 "halophyte" 0.3822 -0.2447
+415 "halophytes" 0.2661 0.454
+416 "halotolerant" 0.3866 -0.2394
+417 "hardening" -0.237 0.5698
+418 "heat stress" -0.9559 -0.1508
+419 "heavy metals" -0.2998 0.9192
+420 "hectoliter mass" 0.3413 -0.4568
+421 "hedysarum" 0.2967 0.5435
+422 "hedysarum scoparium" 0.021 -0.2284
+423 "herb coverage" 0.1643 0.9214
+424 "heterocyst frequency" -0.7432 1.067
+425 "heterotrophic/phototrophic bacteria" -1.2651 0.1935
+426 "high-throughput sequencing" -0.0888 0.0829
+427 "hormonal regulation" -0.2365 -0.5428
+428 "hormone signalling" -0.1875 -0.1916
+429 "hormones" -0.3036 0.8122
+430 "host resistance" 0.4135 0.6855
+431 "housekeeping genes" -0.5418 0.2854
+432 "iaa" 0.3544 -0.2485
+433 "iaa producing bacteria" -0.5077 -0.1355
+434 "iaa production" -0.3719 -0.6004
+435 "illumina miseq sequencing" -0.0381 0.012
+436 "in vitro cultivation" 0.2585 -0.1835
+437 "indigenous cyanobacteria" 0.1017 0.73
+438 "indigenous mva isolates" -0.0363 -1.2879
+439 "indigofera argentea" -0.7415 -0.0545
+440 "indole acetic acid" 0.0299 -0.2636
+441 "induced biocrusts" -0.2967 0.9244
+442 "inoculant" -0.7965 0.0437
+443 "inoculant technologies" 1.2508 -0.1318
+444 "inoculants" -0.3439 -0.8148
+445 "inoculatio" 0.026 -0.2302
+446 "inoculation" -0.2259 0.1419
+447 "inoculum origin" 0.796 0.3014
+448 "inoculum source" -0.0847 -0.3403
+449 "inoculum types" -0.8233 -0.7461
+450 "inorganic fertilizer" -0.376 -0.5039
+451 "integrated disease management" 0.4116 0.6947
+452 "integration" 0.7958 0.3179
+453 "intercropping" 0.1189 -0.4269
+454 "intercropping system" -0.7898 -0.7753
+455 "irrigation" 0.397 0.1878
+456 "irrigation periods" -0.3736 0.234
+457 "irrigation regime" -0.6151 -0.5504
+458 "isatis indigotica" -0.117 -0.1215
+459 "isolates" 0.4798 -0.6296
+460 "jaguar yellow" 0.1523 -0.5639
+461 "jatropha curcas" -0.6955 -0.1326
+462 "khuzestan" -0.5865 1.1608
+463 "king grass" 0.1569 -0.2315
+464 "kosakonia pseudosacchari" 0.4609 -0.3042
+465 "land degradation" 0.1215 0.6981
+466 "land management" 0.1 -0.223
+467 "land rehabilitation" -0.0812 0.6102
+468 "land restoration" 0.0241 0.4126
+469 "land-use types" -0.8174 -0.745
+470 "lapa" 0.0044 0.2487
+471 "leaf area index" -0.6296 0.333
+472 "leaf elemental concentration" -1.2711 -0.2486
+473 "leaf fresh weight" -0.6182 -0.5569
+474 "legume" -0.6804 0.194
+475 "legume nodulating rhizobia" -0.265 0.0943
+476 "legumes" -0.1623 0.0901
+477 "leguminous" 0.2941 0.5488
+478 "lenhx1 expression" -0.0891 -0.4279
+479 "lentil" 0.2043 0.131
+480 "leptolyngbya" -0.1202 0.5592
+481 "licorice" -0.0564 -0.0732
+482 "licorice rhizosphere" -0.0437 0.0164
+483 "light intensity" -0.2538 0.8546
+484 "lignocellulolytic enzymes" -0.7247 -1.0765
+485 "liquid consortium biofertilizer" -1.2793 0.3529
+486 "long fallow disorder" 0.5902 -0.8441
+487 "loosely bound eps" 0.2306 -1.2929
+488 "low doses of chemical fertilizers" 0.4937 1.2216
+489 "low-cost cyanobacteria production" 0.1255 0.9533
+490 "lucerne" -0.6333 -0.0469
+491 "lycium ruthenicum" -0.0658 -0.1173
+492 "lycopersicon esculentum" 0.4041 0.3012
+493 "lysinibacillus boronitolerans" -0.5756 -0.2261
+494 "macro-and micronutrients" 1.0243 0.6501
+495 "macrochloa tenacissima" 1.0709 -0.7614
+496 "maize" 0.1762 -0.2206
+497 "maize seedlings" 0.3607 -0.0066
+498 "maleic anhydride" -1.1855 0.435
+499 "manganese" 0.597 -0.8348
+500 "mannitol" 0.2387 0.2517
+501 "manure amendments" -0.2579 0.0972
+502 "medicago falcata" -0.0983 -0.0663
+503 "medicago sativa" -0.0414 -0.1153
+504 "medicinal plant" 0.0433 0.6037
+505 "medicinal plants" -1.2968 0.0036
+506 "mediterranean" -1.2655 -0.2488
+507 "meta-analysis" -0.06 -0.2482
+508 "metabolic pathway" 0.2907 0.0246
+509 "metabolomics" -0.1295 0.1845
+510 "methyl bacterium" 0.226 -0.6682
+511 "micro-organisms" -0.2073 0.3206
+512 "microalgae" 0.056 0.2646
+513 "microbial communities" -1.2916 0.0059
+514 "microbial consortia" 0.8221 -0.4831
+515 "microbial diversity" -0.1204 0.552
+516 "microbial ecology" -0.0324 0.8426
+517 "microbial inoculants" 0.0549 -0.1555
+518 "microbial inoculation" -0.1261 0.5591
+519 "microbial metabolites" -0.851 0.956
+520 "microbial nutrient limitation" 0.632 0.199
+521 "microbial population seed germination" 0.225 -0.664
+522 "microbiologically induced calcite precipitation" -0.5876 1.1659
+523 "microbiome" -0.0262 0.0585
+524 "microcoleus vaginatus" 0.2292 -1.2835
+525 "microcystin–lr" 0.6547 1.1112
+526 "micronutrients" 0.1506 -0.0176
+527 "microorganisms soil ecology" 0.0035 1.0096
+528 "mine rehabilitation" 0.0759 0.6915
+529 "mineral accumulation" -0.6816 -0.0685
+530 "mineral nitrogen" 0.8203 0.9603
+531 "minerals" -0.5478 0.4082
+532 "mixed farming" -0.822 0.396
+533 "mlee" 0.9461 0.7978
+534 "mlsa phylogeny" 0.5789 -0.3296
+535 "mojave desert" -0.2505 0.6334
+536 "mollisols" -0.5258 -0.4934
+537 "mood" -1.1803 -0.4841
+538 "moss rhizoids" -0.0916 0.454
+539 "mu us desert" 0.0448 0.835
+540 "mucilage" -0.7326 -1.0731
+541 "mulberry" 0.5072 0.0944
+542 "mulching" 0.4602 -0.8131
+543 "multi-locus enzyme electrophoresis" 0.9473 0.8051
+544 "multi-objective genetic algorithm (moga)" 0.4577 -0.3093
+545 "multiple cropping practice" -0.8214 0.3859
+546 "mung bean" 0.4871 -0.2029
+547 "mungbean" 0.2772 -0.6113
+548 "mycorrhiza" 0.673 -0.4165
+549 "mycorrhiza mushroom" 0.017 -0.5395
+550 "mycorrhizae" -0.1024 -0.6916
+551 "mycorrhizal biofertilizers" 1.0838 0.4353
+552 "mycorrhizal colonization" -0.596 -0.5874
+553 "mycorrhizal dependency" -0.1631 -0.3643
+554 "mycorrhizal fungi" 0.1199 -0.6405
+555 "mycorrhizal soil potential" -0.1537 0.0574
+556 "n economics" 0.0061 -0.6024
+557 "n fertilization" -0.3355 -0.0415
+558 "n level" 0.0005 -0.6009
+559 "n-fixation" -0.5401 0.231
+560 "n-fixing cyanobacteria" -0.2423 0.5746
+561 "n-fixing rhizobacteria" 0.4757 -0.6341
+562 "n2 fixation" -1.2669 0.1969
+563 "n2 fixing pseudomonas strain h8" -0.3122 0.0803
+564 "naked oat" 0.092 0.4235
+565 "nanoparticles" 0.8389 0.0798
+566 "nanopriming" 0.6422 -0.9012
+567 "nanotechnology" -0.5016 -0.0314
+568 "native" -0.2007 0.3137
+569 "native grass" 1.0227 0.6396
+570 "native mycorrhizae" 0.8027 0.3132
+571 "native plant species" 0.1765 0.5339
+572 "native plants" -0.026 0.6846
+573 "native vegetation" -0.0061 1.008
+574 "nature-based solutions" 1.1787 0.5561
+575 "neorhizobium" -1.0139 0.7725
+576 "new taxa" -1.049 0.7065
+577 "nifh" -1.0184 0.7602
+578 "nitrogen" 0.4258 -0.7579
+579 "nitrogen content" 0.0246 0.7164
+580 "nitrogen fixation" -0.0066 0.2014
+581 "nitrogen fixing activity" 0.8146 0.9645
+582 "nitrogen levels" -0.1467 0.3209
+583 "nitrogen source" -0.7416 1.0637
+584 "nitrogen use efficiency" -0.0532 -0.2439
+585 "nitrogen-fixation" -0.6259 0.2353
+586 "nitrogen-fixing bacteria" 0.9281 -0.4293
+587 "nitrogenase" 0.5558 -0.1564
+588 "nmr" 0.4641 0.7664
+589 "nodc" -1.006 0.7532
+590 "nodulation" -0.0357 -0.22
+591 "nodulationprosopis juliflora" 0.3326 0.2936
+592 "non-host endophytes" 0.0285 -0.226
+593 "non-mycorrhizal plant" -0.094 -0.1256
+594 "non-symbiotic" -1.0132 0.7545
+595 "north sinai" 0.4115 0.0719
+596 "northern-cameroon" 0.6697 -0.2248
+597 "nostoc colonies" -0.7472 1.0663
+598 "nostoc commune" -0.0199 0.9044
+599 "nostoc flagelliforme" -0.1625 0.9723
+600 "npk fertilization" 0.3807 -0.8762
+601 "nrps" -0.0087 0.56
+602 "nurse plant" 0.1153 0.0723
+603 "nursery performance" 0.1159 -0.6669
+604 "nutrient" -0.3678 -0.1512
+605 "nutrient availability" 0.3479 -0.5942
+606 "nutrient concentrations" 0.3818 -0.1172
+607 "nutrient transfer" -0.2605 0.8544
+608 "nutrient uptake" -0.7808 -0.7401
+609 "nutrients" 0.4268 -0.4448
+610 "oases of m’zab" 0.2908 0.5412
+611 "oceanobacillus" 0.3771 -0.2307
+612 "open reading frame (orf)" -0.3681 -0.6105
+613 "optimal allocation theory" 0.5521 -0.6753
+614 "opuntia ficus-indica" -0.7264 -1.0811
+615 "organic acids" 1.266 -0.3055
+616 "organic carbon" -0.1913 1.0577
+617 "organic carbon content" -1.0943 -0.7029
+618 "organic farming" 0.4059 0.0754
+619 "organic fertilization" 0.3872 -0.8731
+620 "organic fertilizer" -0.446 -0.4619
+621 "organic phosphorus mineralizing bacteria" 0.984 -0.4327
+622 "organic waste" -1.0992 -0.7054
+623 "oscillatoria sp" 0.2378 -1.2873
+624 "osmotic regulators" 0.4137 -0.3123
+625 "osmotic stress" 0.5597 -0.1655
+626 "oxidative stress" -0.8672 -0.1266
+627 "p solubilizing bacteria" 1.2616 -0.3063
+628 "pachycereus pringlei" 0.1237 0.0756
+629 "paddy rice" 0.2896 -0.4959
+630 "paenibacillaceae" -0.8404 0.0497
+631 "paenibacillus" 0.3153 0.3914
+632 "paiaguás grass" 0.4411 -0.7847
+633 "pasture" -0.7341 0.1593
+634 "pathogenic fungi" -0.5078 0.6807
+635 "pcr-rflp" -0.7489 0.3553
+636 "pea" 0.2109 0.1315
+637 "peanut" -0.3812 -0.0283
+638 "peanut plant growth" 0.7936 0.0807
+639 "pearl millet" 0.4327 0.1957
+640 "pearlmillet" 0.4615 -0.8185
+641 "peat slurry treated seed" -0.477 0.1376
+642 "pectic zymogram" -0.3152 -0.0936
+643 "persimmon tree rhizosphere" 0.4823 -0.2061
+644 "pgp pseudomonas spp" 0.3557 -0.0054
+645 "ph" -0.1006 -0.6674
+646 "phaseolus vulgaris" 0.1537 0.1837
+647 "phenazine-1-carboxylic acid" 0.4208 0.6359
+648 "phoenix dactylifera" -0.0835 0.0931
+649 "phospate solubilizing" -0.5028 -0.1312
+650 "phosphate solubilazing bacteria" -0.2773 0.3083
+651 "phosphate solubilization" 0.223 -0.1844
+652 "phosphate solubilizing bacteria" 0.2178 -0.733
+653 "phosphate solubilizing bacteria (psb)" 0.4902 -0.2065
+654 "phosphorus" 0.4406 -0.6796
+655 "phosphorus absorption" 0.7967 0.0751
+656 "phosphorus application levels" -0.0862 -0.3496
+657 "phosphorus availability" 0.5613 -0.6721
+658 "phosphorus cycle" 0.5512 -0.6695
+659 "phosphorus limitation" 0.5578 -0.6768
+660 "phosphorus sources" 0.4495 -0.5682
+661 "phosphorus use efficiency" -0.0649 -0.2413
+662 "photosynthesis" -0.9377 -0.1437
+663 "photosynthetic microorganisms" 1.248 -0.1355
+664 "photosystem ii protein d1" 0.0701 -0.101
+665 "phylogeny" -1.0288 0.7359
+666 "physiological leaf traits" -0.3159 -0.3418
+667 "physiological performances" 0.6364 -0.4452
+668 "physiological status" 0.3548 -0.0117
+669 "physiological traits" -0.218 -0.2807
+670 "phytohormones" -0.2496 -0.5758
+671 "pigeonpea productivity" 0.4479 -0.5643
+672 "pilbara" 0.0183 0.664
+673 "pistacia lentiscus" -0.3106 -1.2421
+674 "pisum sativum" -0.1222 -0.3166
+675 "pksi" -0.0041 0.5535
+676 "pksii" -0.0126 0.5553
+677 "plant biomass" 0.3435 -0.5889
+678 "plant communities" -0.4542 0.3265
+679 "plant derived food" -0.544 0.4054
+680 "plant growth" -0.5999 -0.0723
+681 "plant growth characteristics" -0.2383 -0.5501
+682 "plant growth promoter microorganisms" -0.6222 0.3336
+683 "plant growth promoting bacteria" -0.2097 -0.0035
+684 "plant growth promoting microbes" -0.2646 -0.4265
+685 "plant growth promoting potential" 0.4862 -0.2102
+686 "plant growth promoting traits" 0.5732 -0.3275
+687 "plant growth promotion" -0.7553 -0.0693
+688 "plant growth promotion traits" -0.8136 0.0848
+689 "plant growth rate" -0.6266 0.3377
+690 "plant growth-promoting bacteria (pgpb)" -0.7468 -0.0544
+691 "plant growth-promoting mechanisms" -0.3705 -0.8424
+692 "plant growth-promoting properties" -0.5123 0.688
+693 "plant growth-promoting rhizobacteria (pgpr)" -0.0034 -0.3316
+694 "plant growth-promoting traits" 0.2047 -0.3475
+695 "plant growth–promoting bacteria" 0.16 -0.3044
+696 "plant mesh" 1.0766 -0.7642
+697 "plant performance" -0.0942 -0.113
+698 "plant resistance to abiotic stress" -0.446 0.3311
+699 "plant root elongation" 1.2636 -0.2991
+700 "plant soil feedback" 0.8157 0.3085
+701 "plant strategy" -0.4598 -0.2305
+702 "plant survival;resource-island" 0.1186 0.0788
+703 "plant tolerance" 0.3678 0.8174
+704 "plant-bacteria cross-compatibility" -0.2213 0.0208
+705 "plant-endophytes association" -0.9576 -0.1466
+706 "plant-growth promoting bacteria" -0.8398 0.0559
+707 "plant-growth promotion" 1.0278 0.645
+708 "plantago ovata" 1.0716 -0.7733
+709 "planting densities" 0.6168 0.0684
+710 "plants" -0.5087 0.3741
+711 "plant–microbe interaction" -0.7655 -0.0596
+712 "plastic film mulching" -0.193 -0.3497
+713 "poly-?-hydroxy-butyrate" -0.3868 0.1085
+714 "polyphasic approach" -0.2431 0.6372
+715 "potatoes" 0.4074 0.0664
+716 "potential yield" -0.4338 -0.5755
+717 "pots system" 0.8142 0.9717
+718 "preussia sp bsl10" 1.1669 -0.0018
+719 "production" 0.0482 -0.5086
+720 "productivity" -0.0108 -0.7969
+721 "project of são francisco river" 0.8057 0.3056
+722 "proline" -0.6222 -0.5502
+723 "proline content" -0.3836 0.2379
+724 "proline-biosynthesis related genes" 0.0619 -0.1031
+725 "protein" -0.5929 -0.3485
+726 "proteobacteria" -0.383 0.5708
+727 "protists" -0.0911 0.0901
+728 "psammophytes" 0.0117 0.0072
+729 "psb" 0.3146 -0.5981
+730 "pseudomonas" 0.0365 -0.3613
+731 "pseudomonas aeruginosa" -0.5775 -0.2205
+732 "pseudomonas fluorescens" 0.2451 -0.0829
+733 "psychomotor retardation" -1.184 -0.4917
+734 "psychrophiles" -0.5107 0.0635
+735 "pulse crops" -0.6414 -0.2968
+736 "pulsed-activity event" 0.2112 1.0381
+737 "putrescine" -0.0705 0.1566
+738 "pyrrolnitrin" 0.4224 0.6285
+739 "quality" 0.3765 -0.1134
+740 "radicle length" -0.4882 0.4562
+741 "rageland restoration" -0.7251 -0.6875
+742 "rainfed" -0.0358 -0.5377
+743 "rainfed ecosystem" -0.7945 -0.784
+744 "rainfed wheat" -0.2277 -0.3436
+745 "raphanus sativus" 0.6236 -0.5301
+746 "rare species" -0.5795 -1.1565
+747 "rare taxa" -0.3586 -0.8738
+748 "reclamation" 0.0537 0.7761
+749 "recovery of degraded areas" 0.7927 0.3091
+750 "reforestation" -0.2869 -0.2802
+751 "relative abundance" 0.1029 -0.2176
+752 "remediation" 0.1577 -0.2376
+753 "repabc" -1.0001 0.7589
+754 "residual effect" -0.3412 -0.0444
+755 "resistance" 0.2272 1.0389
+756 "resistance mechanisms" -0.1218 0.7806
+757 "restoration" -0.3726 0.3349
+758 "restoration ecology" 0.8037 0.2967
+759 "restoration practices" -0.0037 1.0025
+760 "retama raetam" -0.7508 0.3518
+761 "retama sphaerocarpa" -0.3139 -1.2468
+762 "revegetation" -0.6223 0.2292
+763 "rhizobacteria" -0.5554 -0.1189
+764 "rhizobia" -0.4587 0.2004
+765 "rhizobial competition" 0.4205 0.4159
+766 "rhizobium" 0.3015 -0.246
+767 "rhizobium inoculation" 0.8193 0.9685
+768 "rhizobium leguminosarum bv vicieae" 0.0392 -0.3199
+769 "rhizobium meliloti" 0.4093 0.4092
+770 "rhizobium strain" 0.2349 0.2546
+771 "rhizockick pea superpalas" -0.5429 -0.4008
+772 "rhizoctonia" 0.3785 0.5351
+773 "rhizoplane" -0.391 0.1046
+774 "rhizosheaths" 1.1851 0.1821
+775 "rhizosphere" -0.2605 0.0504
+776 "rhizosphere colonization" -0.3713 -0.838
+777 "rhizosphere microbiota" 0.0874 0.4204
+778 "rhizospheric microorganisms" 0.4027 0.0708
+779 "rice" 0.4267 0.1959
+780 "rider" 0.0101 0.2594
+781 "rizobacteria" -0.2737 0.3046
+782 "rna-seq" -0.0591 -0.4396
+783 "rock phosphate" 0.2086 -0.35
+784 "root" 0.433 0.1895
+785 "root activities" 0.1126 -0.1407
+786 "root colonization" 0.8193 0.0798
+787 "root endophytes" -0.7434 -0.0492
+788 "root hair density" 0.5621 -0.1569
+789 "root inoculation" 0.2868 0.5445
+790 "root morphology" -0.1648 -0.3584
+791 "root mycorrhizal colonization" -0.1579 -0.3583
+792 "root nodulation" 0.0947 0.1725
+793 "root symbiosis" 0.0889 0.1275
+794 "root traits" -0.2253 -0.2757
+795 "root-soil interactions" 0.6134 0.0633
+796 "roots" -0.0891 -0.5739
+797 "row ratios" -0.7882 -0.7814
+798 "rpob" -1.0098 0.7626
+799 "saffron" 0.0789 -0.4776
+800 "sago dregs" 0.7913 0.0746
+801 "sahel" -0.2695 0.0886
+802 "salicornia" 0.9447 -0.4305
+803 "salicylic acid" -0.3122 0.8131
+804 "salinated soils" 0.9413 -0.4319
+805 "salinicoccus hispanicus" 0.3735 -0.2362
+806 "salinity" -0.5157 0.2414
+807 "salinity and drought tolerance" 0.2118 -0.3451
+808 "salinity stress" 0.3753 -0.2429
+809 "salinity tolerance" 0.384 -0.2324
+810 "salt stress" -0.6748 -0.0459
+811 "salt stress tolerance" -0.0955 -0.431
+812 "salvia deserta" -0.5157 0.6838
+813 "sand fixation" 0.2963 0.0324
+814 "sandy soil" -0.3793 0.2432
+815 "sclerotinia" 0.4132 0.634
+816 "scytonema" -0.1263 0.5522
+817 "scytonema javanicum" -0.3035 0.922
+818 "seasonally dry tropical forest" 0.8129 0.3
+819 "secondary metabolite" -0.3722 -0.1602
+820 "secondary metabolites" 0.4431 0.7863
+821 "sediment" -1.0462 0.7162
+822 "seed coating" 0.1067 0.7343
+823 "seed endophytic bacteria" -0.7844 -0.0709
+824 "seed germination" -0.2288 -0.1656
+825 "seed inoculation" -0.6693 -0.1896
+826 "seed priming" 0.1452 -0.0179
+827 "seedenhancement" -0.2016 0.3282
+828 "seedling recruitment" -0.0264 0.6768
+829 "sejzi plain" 0.2273 -1.2884
+830 "selection of carrierformulation" -1.2799 0.3491
+831 "semi-arid region" 0.3748 -0.7726
+832 "semi-arid soil cyanobacteria" 1.0211 0.6447
+833 "semiarid" 0.023 0.6959
+834 "semiarid and arid environments" -1.2708 -0.2387
+835 "senegalia senegal" 0.6722 -0.2195
+836 "senegalia senegal (l) britton" -0.2613 0.0887
+837 "shallot" 0.0236 -0.7923
+838 "shoot and root dry matter" -0.6253 0.3301
+839 "shrub" 0.6305 0.2055
+840 "shrubby legumes" -0.5383 0.2333
+841 "siderophore" 0.504 -0.1719
+842 "siderophore production" -0.3651 -0.6001
+843 "silicon" -0.3728 0.2401
+844 "sinai flora" 1.1911 0.187
+845 "sinai microflora" 1.1935 0.1831
+846 "single superphosphate" 0.2088 -0.7665
+847 "sinorhizobium meliloti" -0.5758 -0.0183
+848 "slow-release nitrogen" -0.6353 -0.2981
+849 "snap bean" 0.3581 -0.0974
+850 "snap bean (phaseolus vulgaris l)" 0.8206 0.9747
+851 "soil" 0.0004 0.6004
+852 "soil aggregates" -0.0109 0.1661
+853 "soil aggregation" 0.5022 0.0953
+854 "soil amendments" 0.1687 -0.7694
+855 "soil available nutrients" 0.626 0.1983
+856 "soil biocrust" -0.1549 0.4592
+857 "soil conditioning" 0.8049 0.3209
+858 "soil crust" 0.2543 0.927
+859 "soil cyanobacteria" 0.1254 0.9488
+860 "soil degradation" -0.1964 1.0571
+861 "soil depth" -0.3595 -0.2028
+862 "soil erosion" 0.2373 0.6949
+863 "soil fertility" -0.3172 -0.3606
+864 "soil fertility management" 0.2528 -0.3656
+865 "soil function" 0.1003 0.7371
+866 "soil fungi" 1.2292 0.3406
+867 "soil indigenous community" -0.0204 0.9001
+868 "soil management" 0.2647 0.7355
+869 "soil microbial communities" 0.1714 0.5287
+870 "soil microbial community composition" -0.0635 -0.105
+871 "soil microbiology" -0.0298 0.834
+872 "soil microbiome" 1.0769 -0.7698
+873 "soil moisture" 0.6179 0.0592
+874 "soil moisture conservation" 0.4447 -0.5675
+875 "soil multifunctionality" 0.1669 0.5344
+876 "soil nitrogen" -0.189 1.0628
+877 "soil nutrients" -0.1128 -0.2079
+878 "soil nutrition" -0.1367 -0.1208
+879 "soil organic carbon" 0.0523 0.6824
+880 "soil organic matter" 0.1726 0.5395
+881 "soil ph" -0.0392 -1.2914
+882 "soil productivity" 0.378 -0.438
+883 "soil quality" 0.1782 -0.7823
+884 "soil rehabilitation" 0.0116 0.6827
+885 "soil remediation" -0.4954 -0.0295
+886 "soil restoration" -0.0761 0.753
+887 "soil stabilization" 0.2639 0.7292
+888 "soil stabilizer" 1.067 -0.7678
+889 "soil structure" -0.1047 -0.6725
+890 "soil symbiont" -0.6183 0.2343
+891 "soil texture" 0.0472 0.7797
+892 "soil total n content and p content" -0.0325 -1.2911
+893 "soil-borne pathogens" 0.1084 0.36
+894 "soilborne pathogens" -1.2936 0.0018
+895 "soils" -0.5507 0.4032
+896 "sol-gel" -1.1814 0.4371
+897 "solid-state fermentation" -0.7346 -1.0776
+898 "solubilizing bacteria" 0.857 -0.4244
+899 "sorghum" -0.3938 -0.5698
+900 "sorghum bicolor" 0.4455 -0.7844
+901 "sorghum plant" 0.7766 -0.4594
+902 "sorghum yield" 0.1792 -0.7857
+903 "sowing date" -0.4635 0.1436
+904 "soybean" -0.1616 -0.5751
+905 "species diversity" 0.0904 0.169
+906 "speleomycology" -1.042 0.7119
+907 "spore abundance" -0.8202 -0.7372
+908 "spore density" 0.098 -0.2165
+909 "sporormiaceae" 1.1701 -0.0006
+910 "stability" 0.2189 1.0387
+911 "starter nitrogen" -0.6392 -0.3016
+912 "steam explosion" -0.7312 -1.0827
+913 "storability" -0.0436 -0.7962
+914 "strain selection" -0.8055 0.0545
+915 "straw" -1.2673 0.1902
+916 "straw checkerboard" 0.1616 0.9259
+917 "streptomyces" 0.2271 0.4274
+918 "stress tolerance" 0.5313 -0.3173
+919 "structure elucidation" 0.4196 0.8099
+920 "subhumid and semiarid regions" -0.5241 -0.4971
+921 "substrate system" 0.825 0.964
+922 "sugarcane" 0.6295 -0.445
+923 "sulfoquinovosyldiacylglycerol" -0.987 -0.1627
+924 "sulla" 0.289 0.5501
+925 "survival" 0.3694 -0.7763
+926 "sustainability" -0.2755 -0.3389
+927 "sustainability food production" -0.8186 0.3912
+928 "sustainable agriculture" -0.1909 -0.3645
+929 "sweet corn" -0.1479 0.3256
+930 "symbiosis" -0.0859 -0.0201
+931 "symbiotic effectiveness" 0.5793 -0.3202
+932 "symbiotic efficiency" -0.5368 0.2894
+933 "synechocystis" -0.9848 -0.1572
+934 "synergism" 0.5644 -0.1613
+935 "synoptic key" 1.2327 0.351
+936 "systemic acquired resistance" 0.4074 0.6873
+937 "tannin" -0.3582 -0.1516
+938 "taxonomy" -1.0426 0.7072
+939 "tcp" 0.25 -0.0796
+940 "technology package" 0.0288 -0.7964
+941 "temperature" 0.5902 -0.8333
+942 "termite" 1.2678 -0.302
+943 "thal desert" 0.3148 -0.613
+944 "the loess plateau" -0.1157 -0.2113
+945 "thymus altaicus" -0.5127 0.6794
+946 "thymus roseus schipcz" 0.0387 0.5965
+947 "tightly bound eps" 0.2359 -1.2918
+948 "tomato" -0.38 0.2319
+949 "topsoil" 0.0816 0.6487
+950 "trait-based ecology" -0.4611 -0.2362
+951 "transition metals" -0.5463 0.4007
+952 "transplanting" 0.6328 -0.4405
+953 "trehalose" 0.2359 0.2473
+954 "tri-calcium phosphate" 1.2586 -0.3025
+955 "tricho-compost" -0.0653 -0.7692
+956 "trichoderma" 0.2621 -0.4882
+957 "trichoderma reesei cct-2768" -0.7278 -1.0721
+958 "triple superphosphate" 0.1903 -0.3308
+959 "triticum aestivum" 0.2301 -0.2273
+960 "tropical dryland" -0.047 -0.8011
+961 "upland" 0.4266 0.189
+962 "upland rice" 0.4791 -0.6379
+963 "urea" 0.5507 -0.5041
+964 "urea cycle" -0.0731 0.1493
+965 "uv radiation" -0.1143 0.7763
+966 "uvb radiation" 0.2344 -1.2832
+967 "uv–vis" 0.4662 0.7575
+968 "vachellia seyal" 0.6602 -0.2197
+969 "vachellia tortilis subsp raddiana" 0.5731 -0.3222
+970 "vam" 0.3823 -0.6261
+971 "varieties" 1.0823 0.4296
+972 "variovoraxparadoxus" -0.179 -0.1902
+973 "vaterite" 1.2965 0.0602
+974 "vegetable crops" 0.6341 -0.5389
+975 "vegetation succession" 0.0159 0.0115
+976 "vermicompost" 0.1666 -0.553
+977 "viability of superior isolates rhizobacteria" -1.2827 0.3518
+978 "vigna unguiculata" 0.669 -0.2147
+979 "vocs" 0.0111 0.2475
+980 "volcanic ecosystems" 0.5931 0.1884
+981 "waste rock mining sites" -0.2732 0.0971
+982 "waste water" 1.1793 0.5515
+983 "wastewater" -0.2836 0.8969
+984 "water absorbanc" -1.1846 0.4305
+985 "water conservation" 0.0121 0.2707
+986 "water deficiency" -0.0619 -0.4458
+987 "water deficit" -0.4028 -0.2002
+988 "water deficit stress" 0.024 -0.2234
+989 "water intake" 0.6463 -0.8982
+990 "water potential" -0.3554 -0.1607
+991 "water productivity" -0.5944 -0.581
+992 "water saving" 0.0295 -0.791
+993 "water status" -0.0897 -0.3432
+994 "water stress" -0.2646 -0.0865
+995 "water uptake" 0.1114 -0.1333
+996 "water use efficiency" -0.1395 -0.3778
+997 "watering treatment" 0.2558 0.9321
+998 "weed control" 0.3372 -0.4524
+999 "westiellopsis prolifica" 0.6525 1.105
+1000 "wetting–drying" 0.503 0.0911
+1001 "wheat" 0.1205 -0.1611
+1002 "wheat (triticum aestivum l)" -0.4913 -0.0783
+1003 "wheat productivity" 0.6391 -0.8961
+1004 "wild wheat" 0.235 -0.2281
+1005 "wind" -0.5815 1.1612
+1006 "wind erosion" 0.2682 0.7409
+1007 "wind erosion susceptibility" -1.0917 -0.708
+1008 "winter wheat" 0.5494 -0.5368
+1009 "yield" 0.2144 -0.5663
+1010 "yield attributes" 0.8246 -0.4783
+1011 "yield components" 0.1164 -0.4337
+1012 "yield formation" -0.1171 -0.3906
+1013 "zea mays" -0.0402 0.1601
+1014 "zea mays l" -0.8473 0.0506
+1015 "zinc" 0.5867 -0.8395
+1016 "´13c" -0.3199 -1.2354
+1017 "´15n" -0.3233 -1.2413
+1018 "´18o" -0.3247 -1.2359
+*Edges
+1 119 1
+1 338 1
+1 428 1
+1 590 1
+1 674 1
+1 775 1
+1 972 1
+2 21 1
+2 27 1
+2 54 1
+2 77 1
+2 83 1
+2 533 1
+2 543 1
+3 288 1
+3 580 1
+3 766 1
+3 849 1
+4 108 1
+4 113 1
+4 266 1
+4 279 1
+4 346 1
+4 479 1
+4 580 1
+4 636 1
+5 267 1
+5 377 1
+5 575 1
+5 577 1
+5 589 1
+5 594 1
+5 665 1
+5 753 1
+5 798 1
+6 72 1
+6 73 1
+6 282 1
+6 693 1
+7 8 2
+7 30 1
+7 70 1
+7 98 1
+7 99 1
+7 156 1
+7 166 1
+7 167 1
+7 208 1
+7 212 1
+7 231 1
+7 232 1
+7 263 1
+7 535 2
+7 601 1
+7 650 1
+7 675 1
+7 676 1
+7 714 2
+7 781 1
+7 851 1
+8 98 1
+8 99 1
+8 166 1
+8 167 1
+8 208 1
+8 212 1
+8 231 1
+8 232 1
+8 263 1
+8 535 2
+8 714 2
+9 10 1
+9 11 1
+9 56 1
+9 121 1
+9 248 1
+9 291 1
+10 11 1
+10 56 1
+10 121 1
+10 248 1
+10 291 1
+11 56 1
+11 121 1
+11 248 1
+11 291 1
+12 82 1
+12 282 1
+12 350 1
+12 737 1
+12 964 1
+12 1013 1
+13 14 1
+13 15 1
+13 673 1
+13 761 1
+14 15 1
+14 673 1
+14 761 1
+15 673 1
+15 761 1
+16 75 1
+16 367 1
+16 403 1
+16 478 1
+16 674 1
+16 730 1
+16 782 1
+16 796 1
+16 811 1
+16 986 1
+17 91 1
+17 156 1
+17 203 1
+17 259 1
+17 277 1
+17 693 2
+17 928 1
+18 220 1
+18 746 1
+19 32 1
+19 235 1
+19 254 1
+19 444 1
+19 747 1
+20 178 1
+20 268 1
+20 446 1
+20 468 1
+20 476 1
+20 580 1
+20 764 1
+20 930 1
+21 27 1
+21 54 1
+21 77 1
+21 83 1
+21 533 1
+21 543 1
+22 43 1
+22 53 1
+22 279 1
+22 440 1
+22 503 1
+22 590 1
+22 651 1
+22 693 1
+22 785 1
+22 995 1
+22 1001 1
+23 397 1
+23 693 1
+23 742 1
+24 122 1
+24 197 1
+24 729 1
+24 943 1
+24 1009 1
+25 440 1
+25 693 1
+25 730 1
+25 768 1
+26 393 1
+26 395 1
+26 574 1
+26 982 1
+27 54 1
+27 77 1
+27 83 1
+27 533 1
+27 543 1
+28 237 1
+28 294 1
+28 343 1
+28 599 1
+29 164 1
+29 450 1
+29 620 1
+29 904 1
+30 70 1
+30 406 1
+30 564 1
+30 601 1
+30 675 1
+30 676 1
+30 777 1
+30 851 1
+30 917 1
+31 294 1
+31 404 1
+31 527 1
+31 573 1
+31 759 1
+32 235 1
+32 254 1
+32 444 1
+32 747 1
+33 69 1
+33 253 1
+33 340 1
+33 537 1
+33 733 1
+34 121 1
+34 206 1
+34 586 1
+34 621 1
+35 38 1
+35 150 1
+35 617 1
+35 622 1
+35 1007 1
+36 237 1
+36 294 1
+36 528 1
+36 833 1
+36 851 1
+37 81 1
+37 156 1
+37 507 1
+37 517 1
+37 584 1
+37 661 1
+37 693 1
+38 150 1
+38 617 1
+38 622 1
+38 1007 1
+39 43 1
+39 352 1
+39 567 1
+39 763 1
+39 885 1
+40 81 1
+40 877 1
+40 944 1
+41 82 1
+41 294 1
+41 357 1
+41 517 1
+41 523 1
+41 766 1
+41 793 1
+42 316 1
+42 329 1
+42 427 1
+42 670 1
+42 681 1
+42 904 1
+43 48 1
+43 73 1
+43 114 1
+43 129 1
+43 209 1
+43 279 1
+43 322 1
+43 352 1
+43 406 1
+43 440 1
+43 503 1
+43 509 1
+43 567 1
+43 590 1
+43 641 1
+43 651 1
+43 693 1
+43 763 1
+43 764 1
+43 885 1
+43 903 1
+44 120 1
+44 190 1
+44 550 1
+44 645 1
+44 796 1
+44 889 1
+45 720 1
+45 913 1
+45 955 1
+45 960 1
+46 47 1
+46 156 2
+46 199 1
+46 375 1
+46 457 1
+46 473 1
+46 552 1
+46 722 1
+46 991 1
+47 156 1
+47 375 1
+47 552 1
+47 991 1
+48 129 1
+48 209 1
+48 322 1
+48 641 1
+48 764 1
+48 903 1
+49 402 1
+49 449 1
+49 469 1
+49 608 1
+49 907 1
+50 55 1
+50 106 1
+50 179 1
+50 353 1
+50 745 1
+50 963 1
+50 974 1
+51 68 1
+51 264 1
+51 588 1
+51 820 1
+51 967 1
+52 351 1
+52 356 1
+52 486 1
+52 499 1
+52 566 1
+52 654 1
+52 941 1
+52 989 1
+52 1003 1
+52 1015 1
+53 279 1
+53 785 1
+53 995 1
+53 1001 1
+54 77 1
+54 83 1
+54 533 1
+54 543 1
+55 106 1
+55 179 1
+55 353 1
+55 745 1
+55 963 1
+55 974 1
+56 121 1
+56 248 1
+56 291 1
+57 195 1
+57 554 1
+57 603 1
+58 64 1
+58 119 1
+58 272 1
+58 734 1
+59 252 2
+59 580 1
+59 765 1
+59 769 2
+60 548 1
+60 586 1
+60 898 1
+61 238 1
+61 239 1
+61 381 1
+61 740 1
+61 757 1
+62 587 1
+62 625 1
+62 788 1
+62 841 1
+62 934 1
+63 118 1
+63 434 1
+63 612 1
+63 693 1
+63 842 1
+63 899 1
+64 119 1
+64 272 1
+64 734 1
+65 318 1
+65 634 1
+65 692 1
+65 812 1
+65 945 1
+66 146 1
+66 211 1
+66 310 1
+66 415 1
+66 917 1
+67 243 1
+67 525 1
+67 999 1
+68 161 1
+68 264 1
+68 374 1
+68 588 1
+68 647 1
+68 738 1
+68 772 1
+68 815 1
+68 820 1
+68 967 1
+69 253 1
+69 340 1
+69 537 1
+69 733 1
+70 270 1
+70 317 1
+70 327 1
+70 504 1
+70 601 1
+70 675 1
+70 676 1
+70 851 1
+70 946 1
+71 418 1
+71 662 1
+71 705 1
+72 73 1
+72 282 1
+72 456 1
+72 693 1
+72 723 1
+72 764 1
+72 814 1
+72 843 1
+72 948 1
+73 114 1
+73 279 1
+73 282 1
+73 406 1
+73 509 1
+73 693 1
+74 279 1
+74 497 1
+74 644 1
+74 668 1
+75 82 1
+75 275 1
+75 297 1
+75 367 1
+75 403 1
+75 478 1
+75 811 1
+75 996 1
+75 1012 1
+76 197 1
+76 285 1
+76 286 1
+76 654 1
+76 729 1
+76 970 1
+77 83 1
+77 533 1
+77 543 1
+78 119 1
+78 263 1
+78 678 1
+78 698 1
+78 710 1
+78 775 1
+78 806 1
+79 442 1
+79 446 1
+79 637 1
+79 764 1
+79 766 1
+79 806 1
+79 810 1
+79 825 1
+79 914 1
+80 187 1
+80 349 1
+80 366 1
+81 156 1
+81 269 1
+81 348 1
+81 403 1
+81 448 1
+81 466 1
+81 475 1
+81 496 1
+81 501 1
+81 507 1
+81 517 1
+81 584 1
+81 656 1
+81 661 1
+81 693 1
+81 751 1
+81 757 1
+81 801 1
+81 836 1
+81 877 1
+81 908 1
+81 944 1
+81 981 1
+81 993 1
+82 93 1
+82 181 1
+82 191 1
+82 205 1
+82 214 1
+82 261 1
+82 274 1
+82 275 1
+82 278 1
+82 279 1
+82 282 1
+82 283 1
+82 294 2
+82 297 1
+82 299 1
+82 300 1
+82 309 1
+82 324 1
+82 337 1
+82 350 1
+82 357 1
+82 359 1
+82 382 2
+82 385 1
+82 387 1
+82 388 1
+82 396 1
+82 447 1
+82 452 1
+82 455 1
+82 508 1
+82 517 1
+82 520 1
+82 523 1
+82 541 1
+82 553 1
+82 555 1
+82 570 1
+82 571 1
+82 578 1
+82 604 1
+82 605 1
+82 638 1
+82 639 1
+82 654 1
+82 655 1
+82 677 1
+82 700 1
+82 709 1
+82 712 2
+82 721 1
+82 728 1
+82 732 1
+82 737 1
+82 744 1
+82 749 1
+82 758 1
+82 766 1
+82 775 1
+82 779 1
+82 784 1
+82 786 1
+82 790 1
+82 791 1
+82 793 1
+82 795 1
+82 800 1
+82 813 1
+82 818 1
+82 819 1
+82 839 1
+82 852 1
+82 853 1
+82 855 1
+82 857 1
+82 861 1
+82 869 1
+82 873 1
+82 875 1
+82 880 1
+82 926 1
+82 930 1
+82 937 1
+82 939 1
+82 961 1
+82 964 1
+82 975 1
+82 980 1
+82 987 2
+82 990 1
+82 994 2
+82 996 2
+82 1000 1
+82 1001 1
+82 1012 1
+82 1013 2
+83 533 1
+83 543 1
+84 147 1
+84 202 1
+84 666 1
+84 750 1
+84 863 1
+84 926 1
+85 160 1
+85 476 1
+85 683 1
+85 928 1
+86 96 1
+86 774 1
+86 844 1
+86 845 1
+87 282 1
+87 320 1
+87 683 1
+87 704 1
+87 775 1
+87 994 1
+88 153 1
+88 237 1
+88 333 1
+88 446 1
+88 884 1
+89 136 1
+89 325 1
+89 532 1
+89 545 1
+89 635 1
+89 760 1
+89 764 1
+89 927 1
+90 153 1
+90 421 1
+90 455 1
+90 477 1
+90 528 1
+90 591 1
+90 610 1
+90 672 1
+90 766 1
+90 789 1
+90 879 1
+90 924 1
+90 949 1
+91 203 1
+91 277 1
+91 693 1
+92 108 1
+92 132 1
+92 172 1
+92 237 1
+92 262 1
+92 318 1
+92 376 1
+92 580 2
+92 582 1
+92 726 1
+92 929 1
+93 279 1
+93 300 1
+93 508 1
+93 813 1
+94 95 1
+94 257 1
+94 311 1
+94 866 1
+94 935 1
+95 257 1
+95 311 1
+95 866 1
+95 935 1
+96 774 1
+96 844 1
+96 845 1
+97 204 1
+97 246 1
+97 279 1
+97 956 1
+98 166 1
+98 212 1
+98 535 1
+98 714 1
+99 167 1
+99 208 1
+99 231 1
+99 232 1
+99 263 1
+99 535 1
+99 714 1
+100 126 1
+100 186 1
+100 192 1
+100 973 1
+101 151 1
+101 343 1
+101 616 1
+101 860 1
+101 876 1
+102 108 1
+102 526 1
+102 826 1
+103 364 1
+103 436 1
+103 651 1
+104 171 1
+104 237 1
+104 429 1
+104 803 1
+105 185 1
+105 652 1
+105 846 1
+106 179 1
+106 353 1
+106 745 1
+106 963 1
+106 974 1
+107 111 1
+107 219 1
+107 380 1
+107 460 1
+107 976 1
+108 111 1
+108 113 1
+108 156 1
+108 260 1
+108 274 1
+108 289 1
+108 363 1
+108 432 1
+108 526 1
+108 580 3
+108 582 1
+108 602 1
+108 628 1
+108 664 1
+108 702 1
+108 719 1
+108 724 1
+108 799 1
+108 826 1
+108 929 1
+108 959 1
+108 976 1
+108 1001 1
+108 1004 1
+109 229 1
+109 444 1
+109 691 1
+109 776 1
+110 362 1
+110 713 1
+110 773 1
+110 775 1
+111 127 1
+111 156 1
+111 174 1
+111 219 1
+111 286 1
+111 380 1
+111 460 1
+111 719 1
+111 799 1
+111 976 2
+111 1001 1
+112 442 1
+112 630 1
+112 706 1
+112 914 1
+112 1014 1
+113 198 1
+113 406 1
+113 512 1
+113 580 2
+114 279 1
+114 406 1
+114 509 1
+115 148 1
+115 245 1
+115 341 1
+115 492 1
+116 161 1
+116 371 1
+116 430 1
+116 451 1
+116 936 1
+117 461 1
+117 687 1
+117 763 1
+117 825 1
+118 434 1
+118 612 1
+118 693 1
+118 842 1
+118 899 1
+119 156 1
+119 237 1
+119 263 1
+119 272 1
+119 286 1
+119 316 1
+119 338 1
+119 345 1
+119 370 1
+119 428 1
+119 433 1
+119 511 1
+119 568 1
+119 590 1
+119 649 1
+119 674 1
+119 678 1
+119 698 1
+119 710 1
+119 734 1
+119 750 1
+119 757 1
+119 763 1
+119 775 3
+119 806 1
+119 824 1
+119 827 1
+119 856 1
+119 930 1
+119 972 1
+120 190 1
+120 550 1
+120 645 1
+120 796 1
+120 889 1
+121 206 1
+121 248 1
+121 291 1
+121 586 1
+121 621 1
+122 197 1
+122 729 1
+122 943 1
+122 1009 1
+123 432 1
+123 496 1
+123 546 1
+123 643 1
+123 651 1
+123 653 1
+123 685 1
+123 693 1
+123 841 1
+124 142 1
+124 305 1
+124 315 1
+124 490 1
+124 529 1
+124 626 1
+124 662 1
+124 680 1
+124 810 1
+125 149 1
+125 344 1
+125 539 1
+126 186 1
+126 192 1
+126 973 1
+127 174 1
+127 286 1
+127 1001 1
+128 156 1
+128 556 1
+128 558 1
+128 1009 1
+129 209 1
+129 322 1
+129 641 1
+129 764 1
+129 903 1
+130 281 1
+130 687 1
+130 711 1
+130 823 1
+131 576 1
+131 665 1
+131 821 1
+131 906 1
+131 938 1
+132 318 1
+132 376 1
+132 726 1
+133 280 1
+133 565 1
+133 786 1
+134 286 1
+134 459 1
+134 561 1
+134 962 1
+135 165 1
+135 180 1
+135 442 1
+136 325 1
+136 532 1
+136 545 1
+136 927 1
+137 222 1
+137 398 1
+137 488 1
+138 141 1
+138 336 1
+138 862 1
+138 868 1
+138 887 1
+138 1006 1
+139 284 1
+139 360 1
+139 514 1
+139 1010 1
+140 175 2
+140 349 1
+140 399 1
+140 578 1
+140 590 1
+140 652 1
+140 654 1
+140 729 1
+140 766 2
+140 1009 2
+141 336 1
+141 862 1
+141 868 1
+141 887 1
+141 1006 1
+142 490 1
+142 529 1
+142 680 1
+142 810 1
+143 149 1
+143 294 1
+143 467 1
+143 572 1
+143 672 1
+143 828 1
+144 236 1
+144 494 1
+144 569 1
+144 707 1
+144 832 1
+145 383 1
+145 450 1
+145 620 1
+145 684 1
+145 899 1
+145 928 1
+145 1001 1
+146 211 1
+146 310 1
+146 415 1
+146 917 1
+147 202 1
+147 666 1
+147 750 1
+147 863 1
+147 926 1
+148 158 1
+148 166 1
+148 173 1
+148 237 1
+148 245 1
+148 341 1
+148 358 1
+148 370 1
+148 492 1
+148 595 1
+148 618 1
+148 631 1
+148 715 1
+148 772 1
+148 778 1
+148 893 1
+148 917 1
+148 1001 1
+149 166 1
+149 237 1
+149 240 1
+149 244 1
+149 294 2
+149 307 1
+149 344 1
+149 437 1
+149 465 2
+149 467 1
+149 528 1
+149 539 1
+149 572 1
+149 672 1
+149 822 1
+149 828 1
+149 865 1
+149 871 1
+149 886 1
+150 617 1
+150 622 1
+150 1007 1
+151 343 1
+151 616 1
+151 860 1
+151 876 1
+152 294 1
+152 598 1
+152 867 1
+153 167 1
+153 234 1
+153 237 5
+153 250 1
+153 294 3
+153 333 1
+153 342 1
+153 378 1
+153 412 1
+153 417 1
+153 446 1
+153 483 1
+153 528 1
+153 560 1
+153 607 1
+153 672 1
+153 756 1
+153 757 2
+153 806 1
+153 879 1
+153 884 1
+153 886 2
+153 949 1
+153 965 1
+153 983 1
+154 314 1
+154 390 1
+154 882 1
+155 196 1
+155 225 1
+155 349 1
+155 600 1
+155 619 1
+156 188 1
+156 199 1
+156 227 1
+156 259 1
+156 279 1
+156 287 1
+156 290 1
+156 303 1
+156 375 1
+156 391 1
+156 400 1
+156 407 1
+156 408 1
+156 413 1
+156 433 1
+156 457 1
+156 473 1
+156 493 1
+156 507 1
+156 517 1
+156 536 1
+156 552 1
+156 556 1
+156 558 1
+156 584 1
+156 608 1
+156 649 1
+156 650 1
+156 661 1
+156 669 1
+156 693 2
+156 716 1
+156 719 1
+156 722 1
+156 731 1
+156 741 1
+156 763 2
+156 781 1
+156 794 1
+156 799 1
+156 863 1
+156 899 1
+156 920 1
+156 928 2
+156 976 1
+156 991 1
+156 1009 1
+157 372 1
+157 542 1
+157 578 1
+157 640 1
+158 223 1
+158 279 1
+158 286 1
+158 389 1
+158 390 1
+158 399 1
+158 455 1
+158 548 1
+158 595 1
+158 609 1
+158 618 1
+158 693 1
+158 715 1
+158 778 1
+158 864 1
+158 928 1
+158 963 1
+158 1001 2
+158 1009 1
+159 373 1
+159 519 1
+160 476 1
+160 683 1
+160 928 1
+161 242 1
+161 371 1
+161 374 1
+161 430 1
+161 451 1
+161 465 1
+161 468 1
+161 647 1
+161 738 1
+161 772 1
+161 815 1
+161 862 1
+161 936 1
+162 505 1
+162 513 1
+162 894 1
+163 237 1
+163 255 1
+163 538 1
+163 580 1
+164 450 1
+164 620 1
+164 904 1
+165 180 1
+165 182 1
+165 226 1
+165 323 1
+165 442 2
+165 474 1
+165 633 1
+165 687 1
+165 688 1
+165 914 1
+166 173 1
+166 189 1
+166 212 1
+166 237 2
+166 244 1
+166 249 1
+166 251 1
+166 294 1
+166 296 1
+166 301 1
+166 306 1
+166 308 1
+166 361 1
+166 370 1
+166 401 1
+166 423 1
+166 489 1
+166 535 1
+166 714 1
+166 736 1
+166 748 1
+166 755 1
+166 858 1
+166 859 1
+166 871 1
+166 884 1
+166 886 1
+166 891 1
+166 893 1
+166 910 1
+166 916 1
+166 997 1
+167 208 1
+167 231 1
+167 232 1
+167 234 1
+167 237 1
+167 250 1
+167 263 1
+167 535 1
+167 714 1
+167 886 1
+168 295 1
+168 462 1
+168 522 1
+168 1005 1
+169 444 1
+169 670 1
+169 693 1
+169 928 1
+170 193 1
+170 498 1
+170 896 1
+170 984 1
+171 237 1
+171 429 1
+171 803 1
+172 237 1
+172 262 1
+172 580 1
+173 237 1
+173 370 1
+173 893 1
+174 286 1
+174 1001 1
+175 399 1
+175 590 1
+175 652 1
+175 729 1
+175 766 2
+175 1009 2
+176 183 1
+176 701 1
+176 950 1
+176 987 1
+177 273 1
+177 718 1
+177 909 1
+178 268 1
+178 446 1
+178 468 1
+178 476 1
+178 580 1
+178 764 1
+178 930 1
+179 353 1
+179 745 1
+179 963 1
+179 974 1
+180 442 1
+181 732 1
+181 939 1
+181 1001 1
+182 688 1
+182 914 1
+183 701 1
+183 950 1
+183 987 1
+184 230 1
+184 596 1
+184 766 1
+184 835 1
+184 968 1
+184 978 1
+185 652 1
+185 846 1
+185 854 1
+185 883 1
+185 902 1
+186 192 1
+186 973 1
+187 349 1
+187 366 1
+188 493 1
+188 731 1
+188 763 1
+189 301 1
+189 308 1
+189 361 1
+189 736 1
+189 755 1
+189 910 1
+190 550 1
+190 645 1
+190 796 1
+190 889 1
+191 388 1
+191 852 1
+191 1013 1
+192 973 1
+193 498 1
+193 896 1
+193 984 1
+194 438 1
+194 881 1
+194 892 1
+195 554 1
+195 603 1
+196 225 1
+196 349 1
+196 600 1
+196 619 1
+197 285 1
+197 286 1
+197 389 1
+197 390 1
+197 420 1
+197 654 1
+197 729 2
+197 766 1
+197 943 1
+197 970 1
+197 998 1
+197 1009 1
+198 406 1
+198 512 1
+198 580 1
+199 457 1
+199 473 1
+199 722 1
+200 313 1
+200 411 1
+200 662 1
+200 923 1
+200 933 1
+201 369 1
+201 580 1
+201 792 1
+201 793 1
+201 905 1
+202 666 1
+202 750 1
+202 863 1
+202 926 1
+203 277 1
+203 693 1
+204 246 1
+204 279 1
+204 286 1
+204 554 1
+204 766 1
+204 904 1
+204 956 1
+205 214 1
+205 382 1
+205 980 1
+206 586 1
+206 621 1
+207 210 1
+207 247 1
+207 453 1
+207 1009 1
+207 1011 1
+208 231 1
+208 232 1
+208 263 1
+208 535 1
+208 714 1
+209 322 1
+209 641 1
+209 764 1
+209 903 1
+210 247 1
+210 453 1
+210 1009 1
+210 1011 1
+211 310 1
+211 415 1
+211 917 1
+212 535 1
+212 714 1
+213 216 1
+213 446 1
+213 500 1
+213 580 1
+213 646 1
+213 766 1
+213 770 1
+213 953 1
+214 382 1
+214 980 1
+215 419 1
+215 441 1
+215 817 1
+215 983 1
+216 500 1
+216 770 1
+216 953 1
+217 274 1
+217 502 1
+217 503 1
+217 580 1
+217 590 1
+217 764 1
+218 225 1
+218 766 1
+218 831 1
+218 925 1
+219 380 1
+219 460 1
+219 976 1
+220 746 1
+221 530 1
+221 581 1
+221 717 1
+221 767 1
+221 850 1
+221 921 1
+222 398 1
+222 488 1
+223 399 1
+223 609 1
+223 963 1
+223 1009 1
+224 693 1
+224 854 1
+225 349 1
+225 600 1
+225 619 1
+225 766 1
+225 831 1
+225 925 1
+226 474 1
+226 633 1
+227 290 1
+227 863 1
+227 928 1
+228 265 1
+228 557 1
+228 637 1
+228 754 1
+228 1001 1
+229 444 1
+229 691 1
+229 776 1
+230 596 1
+230 766 1
+230 835 1
+230 968 1
+230 978 1
+231 232 1
+231 263 1
+231 535 1
+231 714 1
+232 263 1
+232 535 1
+232 714 1
+233 606 1
+233 739 1
+233 766 1
+233 849 1
+234 237 1
+234 250 1
+234 886 1
+235 254 1
+235 444 1
+235 747 1
+236 494 1
+236 569 1
+236 707 1
+236 832 1
+237 244 1
+237 250 1
+237 255 1
+237 262 1
+237 286 1
+237 294 4
+237 333 1
+237 342 1
+237 343 1
+237 345 1
+237 370 1
+237 378 1
+237 429 1
+237 446 1
+237 483 1
+237 511 1
+237 528 1
+237 538 1
+237 568 1
+237 580 2
+237 599 1
+237 607 1
+237 756 1
+237 757 2
+237 803 1
+237 806 1
+237 827 1
+237 833 1
+237 851 1
+237 856 1
+237 871 1
+237 884 1
+237 886 3
+237 893 1
+237 965 1
+237 983 1
+238 239 1
+238 381 1
+238 740 1
+238 757 1
+239 381 1
+239 740 1
+239 757 1
+240 294 1
+240 307 1
+240 465 1
+240 579 1
+240 833 1
+240 879 1
+240 884 1
+240 886 1
+241 258 1
+241 443 1
+241 663 1
+242 465 1
+242 468 1
+242 862 1
+243 525 1
+243 999 1
+244 871 1
+244 886 1
+245 341 1
+245 492 1
+246 279 1
+246 956 1
+247 256 1
+247 274 3
+247 279 2
+247 422 1
+247 435 1
+247 445 1
+247 446 2
+247 453 1
+247 458 2
+247 481 2
+247 482 1
+247 491 1
+247 523 1
+247 592 1
+247 593 1
+247 697 4
+247 870 2
+247 878 1
+247 930 3
+247 988 1
+247 994 1
+247 1009 1
+247 1011 1
+248 291 1
+249 251 1
+249 858 1
+249 997 1
+250 886 1
+251 858 1
+251 997 1
+252 580 1
+252 765 1
+252 769 2
+253 340 1
+253 537 1
+253 733 1
+254 444 1
+254 747 1
+255 538 1
+255 580 1
+256 279 1
+256 446 1
+256 481 1
+257 311 1
+257 866 1
+257 935 1
+258 443 1
+258 663 1
+259 693 1
+259 928 1
+260 580 1
+260 602 1
+260 628 1
+260 702 1
+261 447 1
+261 452 1
+261 570 1
+261 700 1
+261 721 1
+261 749 1
+261 758 1
+261 818 1
+261 857 1
+262 580 1
+263 535 1
+263 678 1
+263 698 1
+263 710 1
+263 714 1
+263 775 1
+263 806 1
+264 588 1
+264 820 1
+264 967 1
+265 557 1
+265 637 1
+265 754 1
+265 1001 1
+266 279 1
+266 346 1
+266 479 1
+266 636 1
+267 377 1
+267 575 1
+267 577 1
+267 589 1
+267 594 1
+267 665 1
+267 753 1
+267 798 1
+268 446 1
+268 468 1
+268 476 1
+268 580 1
+268 764 1
+268 930 1
+269 475 1
+269 501 1
+269 757 1
+269 801 1
+269 836 1
+269 981 1
+270 317 1
+270 327 1
+270 504 1
+270 946 1
+271 578 1
+271 632 1
+271 900 1
+272 734 1
+273 718 1
+273 909 1
+274 339 1
+274 363 1
+274 446 1
+274 458 1
+274 481 1
+274 491 1
+274 502 1
+274 503 1
+274 578 1
+274 580 1
+274 590 1
+274 593 1
+274 605 1
+274 654 1
+274 664 1
+274 677 1
+274 680 1
+274 697 3
+274 724 1
+274 763 1
+274 764 1
+274 870 2
+274 930 3
+274 1001 1
+274 1002 1
+275 297 1
+275 996 1
+275 1012 1
+276 294 1
+276 319 1
+276 703 1
+277 693 1
+278 728 1
+278 930 1
+278 975 1
+279 289 1
+279 300 1
+279 333 1
+279 346 1
+279 406 1
+279 408 1
+279 413 1
+279 435 1
+279 446 2
+279 455 1
+279 470 1
+279 479 1
+279 481 1
+279 482 1
+279 497 1
+279 508 1
+279 509 1
+279 523 1
+279 548 2
+279 624 1
+279 636 1
+279 644 1
+279 668 1
+279 669 1
+279 693 2
+279 695 1
+279 730 1
+279 780 1
+279 785 1
+279 794 1
+279 813 1
+279 956 1
+279 958 1
+279 979 1
+279 995 1
+279 1001 3
+280 565 1
+280 786 1
+281 687 1
+281 711 1
+281 823 1
+282 320 1
+282 350 1
+282 683 1
+282 693 1
+282 704 1
+282 737 1
+282 775 1
+282 964 1
+282 994 1
+282 1013 1
+283 861 1
+283 987 1
+284 360 1
+284 514 1
+284 548 1
+284 901 1
+284 1010 1
+285 286 1
+285 654 1
+285 729 1
+285 970 1
+286 345 1
+286 389 1
+286 390 1
+286 392 1
+286 459 1
+286 463 1
+286 496 1
+286 511 1
+286 517 1
+286 548 2
+286 549 1
+286 554 1
+286 561 1
+286 568 1
+286 613 1
+286 654 2
+286 657 1
+286 658 1
+286 659 1
+286 660 1
+286 667 1
+286 671 1
+286 693 1
+286 719 1
+286 720 1
+286 729 1
+286 752 1
+286 757 1
+286 766 1
+286 827 1
+286 837 1
+286 856 1
+286 864 1
+286 874 1
+286 904 2
+286 922 1
+286 928 1
+286 940 1
+286 952 1
+286 962 1
+286 970 1
+286 992 1
+286 1001 2
+286 1008 1
+287 303 1
+287 716 1
+287 899 1
+288 580 1
+288 766 1
+288 849 1
+289 432 1
+289 695 1
+289 730 1
+289 958 1
+289 959 1
+289 1004 1
+290 863 1
+290 928 1
+292 394 1
+292 551 1
+292 971 1
+293 694 1
+293 783 1
+293 807 1
+293 958 1
+294 306 1
+294 307 1
+294 319 1
+294 342 1
+294 343 1
+294 357 1
+294 378 1
+294 404 1
+294 412 1
+294 417 1
+294 465 1
+294 467 1
+294 517 1
+294 523 1
+294 527 1
+294 528 1
+294 560 1
+294 571 1
+294 572 1
+294 573 1
+294 598 1
+294 599 1
+294 672 1
+294 693 1
+294 703 1
+294 748 1
+294 756 1
+294 757 2
+294 759 1
+294 766 1
+294 780 1
+294 793 1
+294 806 1
+294 828 1
+294 833 1
+294 851 1
+294 867 1
+294 869 1
+294 875 1
+294 880 1
+294 884 1
+294 886 1
+294 891 1
+294 965 1
+294 985 1
+295 462 1
+295 522 1
+295 1005 1
+296 423 1
+296 916 1
+297 996 1
+297 1012 1
+298 510 1
+298 521 1
+298 1009 1
+299 382 1
+299 520 1
+299 839 1
+299 855 1
+300 508 1
+300 813 1
+301 308 1
+301 361 1
+301 736 1
+301 755 1
+301 910 1
+302 425 1
+302 562 1
+302 915 1
+303 716 1
+303 899 1
+304 334 1
+304 454 1
+304 608 1
+304 743 1
+304 797 1
+305 315 1
+305 626 1
+305 662 1
+306 748 1
+306 884 1
+306 891 1
+307 465 1
+308 361 1
+308 736 1
+308 755 1
+308 910 1
+309 396 1
+309 604 1
+309 819 1
+309 937 1
+309 987 1
+309 990 1
+309 994 1
+310 415 1
+310 917 1
+311 866 1
+311 935 1
+312 318 1
+312 355 1
+312 405 1
+313 411 1
+313 662 1
+313 923 1
+313 933 1
+314 390 1
+314 882 1
+315 626 1
+315 662 1
+316 329 1
+316 370 1
+316 427 1
+316 670 1
+316 681 1
+316 750 1
+316 775 1
+316 824 1
+316 904 1
+316 930 1
+317 327 1
+317 504 1
+317 946 1
+318 355 1
+318 376 1
+318 405 1
+318 634 1
+318 692 1
+318 726 1
+318 812 1
+318 945 1
+319 330 1
+319 703 1
+319 820 1
+319 919 1
+320 683 1
+320 704 1
+320 775 1
+320 994 1
+321 534 1
+321 686 1
+321 918 1
+321 931 1
+321 969 1
+322 641 1
+322 764 1
+322 903 1
+323 442 1
+323 687 1
+324 712 1
+324 744 1
+324 926 1
+325 532 1
+325 545 1
+325 927 1
+326 424 1
+326 583 1
+326 597 1
+327 504 1
+327 946 1
+328 495 1
+328 696 1
+328 708 1
+328 872 1
+328 888 1
+329 427 1
+329 670 1
+329 681 1
+329 904 1
+330 820 1
+330 919 1
+331 563 1
+331 775 1
+332 335 1
+332 642 1
+332 994 1
+333 446 1
+333 470 1
+333 693 1
+333 780 1
+333 884 1
+333 979 1
+334 454 1
+334 608 1
+334 743 1
+334 797 1
+335 642 1
+335 994 1
+336 862 1
+336 868 1
+336 887 1
+336 1006 1
+337 385 1
+337 994 1
+338 428 1
+338 590 1
+338 674 1
+338 775 1
+338 972 1
+339 446 1
+339 680 1
+339 763 1
+339 1002 1
+340 537 1
+340 733 1
+341 492 1
+342 378 1
+342 756 1
+342 886 1
+342 965 1
+343 599 1
+343 616 1
+343 860 1
+343 876 1
+344 539 1
+345 511 1
+345 568 1
+345 757 1
+345 827 1
+345 856 1
+346 479 1
+346 636 1
+347 620 1
+347 725 1
+347 771 1
+348 403 1
+348 448 1
+348 656 1
+348 993 1
+349 366 1
+349 578 1
+349 600 1
+349 619 1
+349 654 1
+350 737 1
+350 964 1
+350 1013 1
+351 566 1
+351 989 1
+351 1003 1
+352 567 1
+352 763 1
+352 885 1
+353 745 1
+353 963 1
+353 974 1
+354 370 1
+354 426 1
+354 523 1
+354 648 1
+354 727 1
+354 775 1
+355 405 1
+356 486 1
+356 499 1
+356 654 1
+356 941 1
+356 1015 1
+357 517 1
+357 523 1
+357 766 1
+357 793 1
+358 631 1
+358 772 1
+358 917 1
+358 1001 1
+359 555 1
+359 775 1
+360 514 1
+360 1010 1
+361 736 1
+361 755 1
+361 910 1
+362 713 1
+362 773 1
+362 775 1
+363 664 1
+363 724 1
+363 1001 1
+364 436 1
+364 651 1
+365 586 1
+365 802 1
+365 804 1
+367 403 1
+367 478 1
+367 811 1
+368 409 1
+368 410 1
+368 472 1
+368 506 1
+368 834 1
+369 580 1
+369 792 1
+369 793 1
+369 905 1
+370 426 1
+370 523 1
+370 648 1
+370 727 1
+370 750 1
+370 775 2
+370 824 1
+370 893 1
+370 930 1
+371 430 1
+371 451 1
+371 936 1
+372 542 1
+372 578 1
+372 640 1
+373 519 1
+374 647 1
+374 738 1
+374 772 1
+374 815 1
+375 552 1
+375 991 1
+376 726 1
+377 575 1
+377 577 1
+377 589 1
+377 594 1
+377 665 1
+377 753 1
+377 798 1
+378 756 1
+378 886 1
+378 965 1
+379 550 1
+379 904 1
+379 955 1
+380 460 1
+380 976 1
+381 740 1
+381 757 1
+382 520 1
+382 839 1
+382 855 1
+382 980 1
+383 684 1
+383 928 1
+383 1001 1
+384 431 1
+384 446 1
+384 471 1
+384 682 1
+384 689 1
+384 764 1
+384 838 1
+384 932 1
+385 994 1
+386 399 1
+386 629 1
+386 956 1
+387 709 1
+387 795 1
+387 873 1
+388 852 1
+388 1013 1
+389 390 2
+389 420 1
+389 693 1
+389 766 1
+389 864 1
+389 928 1
+389 998 1
+389 1001 1
+390 420 1
+390 693 1
+390 766 1
+390 864 1
+390 882 1
+390 928 1
+390 998 1
+390 1001 1
+391 536 1
+391 920 1
+392 613 1
+392 657 1
+392 658 1
+392 659 1
+393 395 1
+393 574 1
+393 982 1
+394 551 1
+394 971 1
+395 574 1
+395 982 1
+396 604 1
+396 819 1
+396 937 1
+396 987 1
+396 990 1
+396 994 1
+397 693 1
+397 742 1
+398 488 1
+399 590 1
+399 609 1
+399 629 1
+399 729 1
+399 766 1
+399 956 1
+399 963 1
+399 1009 2
+400 407 1
+400 608 1
+400 741 1
+401 489 1
+401 859 1
+402 449 1
+402 469 1
+402 608 1
+402 907 1
+403 448 1
+403 478 1
+403 656 1
+403 811 1
+403 993 1
+404 527 1
+404 573 1
+404 759 1
+406 509 1
+406 512 1
+406 564 1
+406 580 1
+406 777 1
+406 917 1
+407 608 1
+407 741 1
+408 413 1
+408 669 1
+408 794 1
+409 410 1
+409 472 1
+409 506 1
+409 834 1
+410 472 1
+410 506 1
+410 834 1
+411 662 1
+411 923 1
+411 933 1
+412 417 1
+412 560 1
+412 757 1
+413 669 1
+413 794 1
+414 416 1
+414 432 1
+414 611 1
+414 805 1
+414 808 1
+414 809 1
+414 1001 1
+415 917 1
+416 432 1
+416 611 1
+416 805 1
+416 808 1
+416 809 1
+416 1001 1
+417 560 1
+417 757 1
+418 662 1
+418 705 1
+419 441 1
+419 817 1
+419 983 1
+420 766 1
+420 998 1
+421 477 1
+421 610 1
+421 789 1
+421 924 1
+422 445 1
+422 592 1
+422 988 1
+423 916 1
+424 583 1
+424 597 1
+425 562 1
+425 915 1
+426 523 1
+426 648 1
+426 727 1
+426 775 1
+427 670 1
+427 681 1
+427 904 1
+428 590 1
+428 674 1
+428 775 1
+428 972 1
+429 803 1
+430 451 1
+430 936 1
+431 446 1
+431 764 1
+431 932 1
+432 464 1
+432 496 1
+432 544 1
+432 611 1
+432 651 1
+432 693 2
+432 805 1
+432 808 1
+432 809 1
+432 841 1
+432 918 1
+432 959 1
+432 1001 1
+432 1004 1
+433 649 1
+433 763 1
+434 612 1
+434 693 1
+434 842 1
+434 899 1
+435 446 1
+435 482 1
+435 523 1
+436 651 1
+437 465 1
+437 528 1
+437 822 1
+437 865 1
+438 881 1
+438 892 1
+439 690 1
+439 711 1
+439 787 1
+439 810 1
+440 503 1
+440 590 1
+440 651 1
+440 693 2
+440 730 1
+440 768 1
+441 817 1
+441 983 1
+442 630 1
+442 687 1
+442 706 1
+442 764 1
+442 825 1
+442 914 2
+442 1014 1
+443 663 1
+444 670 1
+444 691 1
+444 693 1
+444 747 1
+444 776 1
+444 928 1
+445 592 1
+445 988 1
+446 468 1
+446 476 1
+446 481 1
+446 482 1
+446 523 1
+446 580 2
+446 637 1
+446 646 1
+446 680 1
+446 763 1
+446 764 2
+446 766 2
+446 806 1
+446 810 1
+446 884 1
+446 930 1
+446 932 1
+446 1002 1
+447 452 1
+447 570 1
+447 700 1
+447 721 1
+447 749 1
+447 758 1
+447 818 1
+447 857 1
+448 656 1
+448 993 1
+449 469 1
+449 608 1
+449 907 1
+450 620 2
+450 899 1
+450 904 1
+451 936 1
+452 570 1
+452 700 1
+452 721 1
+452 749 1
+452 758 1
+452 818 1
+452 857 1
+453 1009 1
+453 1011 1
+454 608 1
+454 743 1
+454 797 1
+455 548 1
+455 591 1
+455 639 1
+455 766 1
+455 779 1
+455 784 1
+455 961 1
+455 1001 1
+456 723 1
+456 764 1
+456 814 1
+456 843 1
+456 948 1
+457 473 1
+457 722 1
+458 593 1
+458 697 2
+458 878 1
+458 930 1
+458 994 1
+459 561 1
+459 962 1
+460 976 1
+461 687 1
+461 763 1
+461 825 1
+462 522 1
+462 1005 1
+463 496 1
+463 517 1
+463 752 1
+464 544 1
+464 693 1
+464 918 1
+465 468 1
+465 528 1
+465 822 1
+465 862 1
+465 865 1
+466 496 1
+466 751 1
+466 908 1
+467 480 1
+467 515 1
+467 518 1
+467 572 1
+467 672 1
+467 816 1
+467 828 1
+467 856 1
+468 476 1
+468 580 1
+468 764 1
+468 862 1
+468 930 1
+469 608 1
+469 907 1
+470 693 1
+470 780 1
+470 979 1
+471 682 1
+471 689 1
+471 838 1
+472 506 1
+472 834 1
+473 722 1
+474 585 1
+474 633 1
+474 757 1
+474 762 1
+474 806 1
+474 890 1
+475 501 1
+475 757 1
+475 801 1
+475 836 1
+475 981 1
+476 580 1
+476 683 1
+476 764 1
+476 928 1
+476 930 1
+477 610 1
+477 789 1
+477 924 1
+478 811 1
+479 636 1
+480 515 1
+480 518 1
+480 816 1
+480 856 1
+481 697 1
+481 870 1
+481 930 1
+482 523 1
+483 607 1
+483 983 1
+484 540 1
+484 614 1
+484 897 1
+484 912 1
+484 957 1
+485 830 1
+485 977 1
+486 499 1
+486 654 1
+486 941 1
+486 1015 1
+487 524 1
+487 623 1
+487 829 1
+487 947 1
+487 966 1
+489 859 1
+490 529 1
+490 580 1
+490 680 1
+490 810 1
+490 847 1
+491 697 1
+491 870 1
+491 930 1
+493 731 1
+493 763 1
+494 569 1
+494 707 1
+494 832 1
+495 696 1
+495 708 1
+495 872 1
+495 888 1
+496 517 1
+496 651 1
+496 693 1
+496 751 1
+496 752 1
+496 841 1
+496 908 1
+497 644 1
+497 668 1
+498 896 1
+498 984 1
+499 654 1
+499 941 1
+499 1015 1
+500 770 1
+500 953 1
+501 757 1
+501 801 1
+501 836 1
+501 981 1
+502 503 1
+502 580 1
+502 590 1
+502 764 1
+503 580 1
+503 590 2
+503 651 1
+503 693 1
+503 764 1
+504 946 1
+505 513 1
+505 894 1
+506 834 1
+507 517 1
+507 584 1
+507 661 1
+507 693 1
+508 813 1
+510 521 1
+510 1009 1
+511 568 1
+511 757 1
+511 827 1
+511 856 1
+512 580 1
+513 894 1
+514 1010 1
+515 518 1
+515 816 1
+515 856 1
+516 871 1
+517 523 1
+517 584 1
+517 661 1
+517 693 1
+517 752 1
+517 766 1
+517 793 1
+518 816 1
+518 856 1
+520 839 1
+520 855 1
+521 1009 1
+522 1005 1
+523 648 1
+523 727 1
+523 766 1
+523 775 1
+523 793 1
+524 623 1
+524 829 1
+524 947 1
+524 966 1
+525 999 1
+526 826 1
+527 573 1
+527 759 1
+528 672 1
+528 822 1
+528 833 1
+528 851 1
+528 865 1
+528 879 1
+528 949 1
+529 680 1
+529 810 1
+530 581 1
+530 717 1
+530 767 1
+530 850 1
+530 921 1
+531 679 1
+531 710 1
+531 895 1
+531 951 1
+532 545 1
+532 927 1
+533 543 1
+534 686 1
+534 918 1
+534 931 1
+534 969 1
+535 714 2
+536 920 1
+537 733 1
+538 580 1
+540 614 1
+540 897 1
+540 912 1
+540 957 1
+541 853 1
+541 1000 1
+542 578 1
+542 640 1
+544 693 1
+544 918 1
+545 927 1
+546 643 1
+546 653 1
+546 685 1
+547 654 1
+547 729 1
+547 976 1
+548 586 1
+548 624 1
+548 654 1
+548 667 1
+548 693 1
+548 898 1
+548 901 1
+548 922 1
+548 952 1
+548 1001 2
+548 1008 1
+549 719 1
+549 904 1
+550 645 1
+550 796 1
+550 889 1
+550 904 1
+550 955 1
+551 971 1
+552 991 1
+553 712 1
+553 790 1
+553 791 1
+553 996 1
+554 603 1
+554 766 1
+554 904 1
+555 775 1
+556 558 1
+556 1009 1
+557 637 1
+557 754 1
+557 1001 1
+558 1009 1
+559 764 1
+559 840 1
+560 757 1
+561 962 1
+562 915 1
+563 775 1
+564 777 1
+564 917 1
+565 786 1
+566 989 1
+566 1003 1
+567 763 1
+567 885 1
+568 757 1
+568 827 1
+568 856 1
+569 707 1
+569 832 1
+570 700 1
+570 721 1
+570 749 1
+570 758 1
+570 818 1
+570 857 1
+571 869 1
+571 875 1
+571 880 1
+572 672 1
+572 828 1
+573 759 1
+574 982 1
+575 577 1
+575 589 1
+575 594 1
+575 665 1
+575 753 1
+575 798 1
+576 665 1
+576 821 1
+576 906 1
+576 938 1
+577 589 1
+577 594 1
+577 665 1
+577 753 1
+577 798 1
+578 605 1
+578 632 1
+578 640 1
+578 654 2
+578 677 1
+578 900 1
+579 833 1
+579 879 1
+579 884 1
+579 886 1
+580 582 1
+580 590 1
+580 602 1
+580 628 1
+580 646 1
+580 702 1
+580 764 2
+580 766 2
+580 769 1
+580 792 1
+580 793 1
+580 847 1
+580 849 1
+580 905 1
+580 929 1
+580 930 1
+581 717 1
+581 767 1
+581 850 1
+581 921 1
+582 929 1
+583 597 1
+584 661 1
+584 693 1
+585 757 1
+585 762 1
+585 806 1
+585 890 1
+586 621 1
+586 802 1
+586 804 1
+586 898 1
+587 625 1
+587 788 1
+587 841 1
+587 934 1
+588 820 1
+588 967 1
+589 594 1
+589 665 1
+589 753 1
+589 798 1
+590 651 1
+590 674 1
+590 693 1
+590 729 1
+590 764 1
+590 766 1
+590 775 1
+590 972 1
+590 1009 1
+591 766 1
+592 988 1
+593 697 1
+593 930 1
+594 665 1
+594 753 1
+594 798 1
+595 618 1
+595 715 1
+595 778 1
+596 766 1
+596 835 1
+596 968 1
+596 978 1
+598 867 1
+600 619 1
+601 675 1
+601 676 1
+601 851 1
+602 628 1
+602 702 1
+604 819 1
+604 937 1
+604 987 1
+604 990 1
+604 994 1
+605 654 1
+605 677 1
+606 739 1
+606 766 1
+606 849 1
+607 983 1
+608 741 1
+608 743 1
+608 797 1
+608 907 1
+609 963 1
+609 1009 1
+610 789 1
+610 924 1
+611 805 1
+611 808 1
+611 809 1
+611 1001 1
+612 693 1
+612 842 1
+612 899 1
+613 657 1
+613 658 1
+613 659 1
+614 897 1
+614 912 1
+614 957 1
+615 627 1
+615 699 1
+615 942 1
+615 954 1
+616 860 1
+616 876 1
+617 622 1
+617 1007 1
+618 715 1
+618 778 1
+620 725 1
+620 771 1
+620 899 1
+620 904 1
+622 1007 1
+623 829 1
+623 947 1
+623 966 1
+624 693 1
+624 1001 1
+625 788 1
+625 841 1
+625 934 1
+626 662 1
+627 699 1
+627 942 1
+627 954 1
+628 702 1
+629 956 1
+630 706 1
+630 914 1
+630 1014 1
+631 772 1
+631 917 1
+631 1001 1
+632 900 1
+634 692 1
+634 812 1
+634 945 1
+635 760 1
+635 764 1
+637 754 1
+637 766 1
+637 806 1
+637 810 1
+637 1001 1
+638 655 1
+638 786 1
+638 800 1
+639 779 1
+639 784 1
+639 961 1
+641 764 1
+641 903 1
+642 994 1
+643 653 1
+643 685 1
+644 668 1
+645 796 1
+645 889 1
+646 766 1
+647 738 1
+647 772 1
+647 815 1
+648 727 1
+648 775 1
+649 763 1
+650 781 1
+651 693 2
+651 841 1
+652 766 1
+652 846 1
+652 1009 1
+653 685 1
+654 677 1
+654 729 2
+654 941 1
+654 970 1
+654 976 1
+654 1008 1
+654 1015 1
+655 786 1
+655 800 1
+656 993 1
+657 658 1
+657 659 1
+658 659 1
+660 671 1
+660 874 1
+661 693 1
+662 705 1
+662 923 1
+662 933 1
+664 724 1
+664 1001 1
+665 753 1
+665 798 1
+665 821 1
+665 906 1
+665 938 1
+666 750 1
+666 863 1
+666 926 1
+667 922 1
+667 952 1
+669 794 1
+670 681 1
+670 693 1
+670 904 1
+670 928 1
+671 874 1
+672 828 1
+672 879 1
+672 949 1
+673 761 2
+673 1016 1
+673 1017 1
+673 1018 1
+674 730 1
+674 775 1
+674 782 1
+674 796 1
+674 972 1
+674 986 1
+675 676 1
+675 851 1
+676 851 1
+678 698 1
+678 710 1
+678 775 1
+678 806 1
+679 710 1
+679 895 1
+679 951 1
+680 763 1
+680 810 1
+680 1002 1
+681 904 1
+682 689 1
+682 838 1
+683 704 1
+683 775 1
+683 928 1
+683 994 1
+684 928 1
+684 1001 1
+686 918 1
+686 931 1
+686 969 1
+687 711 1
+687 763 1
+687 823 1
+687 825 1
+688 914 1
+689 838 1
+690 711 1
+690 787 1
+690 810 1
+691 776 1
+692 812 1
+692 945 1
+693 730 1
+693 742 1
+693 768 1
+693 780 2
+693 841 1
+693 842 1
+693 854 1
+693 864 1
+693 899 1
+693 918 1
+693 928 3
+693 979 1
+693 985 1
+693 1001 2
+694 783 1
+694 807 1
+694 958 1
+695 730 1
+695 958 1
+696 708 1
+696 872 1
+696 888 1
+697 870 2
+697 878 1
+697 930 3
+697 994 1
+698 710 1
+698 775 1
+698 806 1
+699 942 1
+699 954 1
+700 721 1
+700 749 1
+700 758 1
+700 818 1
+700 857 1
+701 950 1
+701 987 1
+704 775 1
+704 994 1
+706 914 1
+706 1014 1
+707 832 1
+708 872 1
+708 888 1
+709 795 1
+709 873 1
+710 775 1
+710 806 1
+710 895 1
+710 951 1
+711 787 1
+711 810 1
+711 823 1
+712 744 1
+712 790 1
+712 791 1
+712 926 1
+712 996 1
+713 773 1
+713 775 1
+715 778 1
+716 899 1
+717 767 1
+717 850 1
+717 921 1
+718 909 1
+719 799 1
+719 904 1
+719 976 1
+720 837 1
+720 913 1
+720 940 1
+720 955 1
+720 960 1
+720 992 1
+721 749 1
+721 758 1
+721 818 1
+721 857 1
+723 764 1
+723 814 1
+723 843 1
+723 948 1
+724 1001 1
+725 735 1
+725 771 1
+725 825 1
+725 848 1
+725 911 1
+727 775 1
+728 930 1
+728 975 1
+729 766 1
+729 943 1
+729 970 1
+729 976 1
+729 1009 2
+730 768 1
+730 782 1
+730 796 1
+730 958 1
+730 986 1
+731 763 1
+732 939 1
+732 1001 1
+735 825 1
+735 848 1
+735 911 1
+736 755 1
+736 910 1
+737 964 1
+737 1013 1
+738 772 1
+738 815 1
+739 766 1
+739 849 1
+740 757 1
+743 797 1
+744 926 1
+745 963 1
+745 974 1
+748 884 1
+748 891 1
+749 758 1
+749 818 1
+749 857 1
+750 775 1
+750 824 1
+750 863 1
+750 926 1
+750 930 1
+751 908 1
+753 798 1
+754 1001 1
+755 910 1
+756 886 1
+756 965 1
+757 762 1
+757 801 1
+757 806 2
+757 827 1
+757 836 1
+757 856 1
+757 890 1
+757 981 1
+758 818 1
+758 857 1
+760 764 1
+761 1016 1
+761 1017 1
+761 1018 1
+762 806 1
+762 890 1
+763 825 1
+763 885 1
+763 1002 1
+764 814 1
+764 825 1
+764 840 1
+764 843 1
+764 903 1
+764 914 1
+764 930 1
+764 932 1
+764 948 1
+765 769 1
+766 793 1
+766 806 1
+766 810 1
+766 831 1
+766 835 1
+766 849 2
+766 904 1
+766 925 1
+766 968 1
+766 978 1
+766 998 1
+766 1009 2
+767 850 1
+767 921 1
+770 953 1
+772 815 1
+772 917 1
+772 1001 1
+773 775 1
+774 844 1
+774 845 1
+775 806 1
+775 824 1
+775 930 1
+775 972 1
+775 994 1
+777 917 1
+779 784 1
+779 961 1
+780 979 1
+780 985 1
+782 796 1
+782 986 1
+783 807 1
+783 958 1
+784 961 1
+785 995 1
+785 1001 1
+786 800 1
+787 810 1
+788 841 1
+788 934 1
+789 924 1
+790 791 1
+790 996 1
+791 996 1
+792 793 1
+792 905 1
+793 905 1
+795 873 1
+796 889 1
+796 986 1
+799 976 1
+801 836 1
+801 981 1
+802 804 1
+805 808 1
+805 809 1
+805 1001 1
+806 810 1
+806 890 1
+807 958 1
+808 809 1
+808 1001 1
+809 1001 1
+812 945 1
+814 843 1
+814 948 1
+816 856 1
+817 983 1
+818 857 1
+819 937 1
+819 987 1
+819 990 1
+819 994 1
+820 919 1
+820 967 1
+821 906 1
+821 938 1
+822 865 1
+824 930 1
+825 848 1
+825 911 1
+825 914 1
+827 856 1
+829 947 1
+829 966 1
+830 977 1
+831 925 1
+833 851 1
+833 879 1
+833 884 1
+833 886 1
+835 968 1
+835 978 1
+836 981 1
+837 940 1
+837 992 1
+839 855 1
+841 934 1
+842 899 1
+843 948 1
+844 845 1
+848 911 1
+850 921 1
+852 1013 1
+853 1000 1
+854 883 1
+854 902 1
+858 997 1
+860 876 1
+861 987 1
+862 868 1
+862 887 1
+862 1006 1
+863 926 1
+863 928 1
+864 928 1
+864 1001 1
+866 935 1
+868 887 1
+868 1006 1
+869 875 1
+869 880 1
+870 930 2
+871 886 1
+872 888 1
+875 880 1
+877 944 1
+878 994 1
+879 884 1
+879 886 1
+879 949 1
+881 892 1
+883 902 1
+884 886 1
+884 891 1
+886 965 1
+887 1006 1
+895 951 1
+896 984 1
+897 912 1
+897 957 1
+904 955 1
+906 938 1
+912 957 1
+913 955 1
+913 960 1
+914 1014 1
+917 1001 1
+918 931 1
+918 969 1
+922 952 1
+923 933 1
+928 1001 2
+930 975 1
+931 969 1
+937 987 1
+937 990 1
+937 994 1
+939 1001 1
+940 992 1
+941 1015 1
+942 954 1
+943 1009 1
+947 966 1
+950 987 1
+955 960 1
+959 1004 1
+963 974 1
+963 1009 1
+964 1013 1
+968 978 1
+987 990 1
+987 994 1
+989 1003 1
+990 994 1
+995 1001 1
+996 1012 1
+1009 1011 1
+1016 1017 1
+1016 1018 1
+1017 1018 1

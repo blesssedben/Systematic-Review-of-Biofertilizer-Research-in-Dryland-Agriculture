@@ -1,0 +1,11 @@
+﻿*Vertices 8
+1 "department of biology, john carroll university, university heights, 44118, oh, united states" -0.0003 -0.6151
+2 "department of botany, faculty of sciences, university of south bohemia, branišovská 31, české budějovice, 370 05, czech republic" -0.0001 -0.6095
+3 "institute of medicinal plant development, chinese academy of medical sciences & peking union medical college, beijing, 100193, china" 0.6913 -0.3151
+4 "key laboratory of microbial resources exploitation and application of gansu province, institute of biology, gansu academy of sciences, lanzhou, 730000, china" -0.2765 0.6616
+5 "kings park science, department of biodiversity, conservation and attractions, kings park, 6005, wa, australia" -0.6915 -0.3147
+6 "school of chinese pharmacy, beijing university of chinese medicine, beijing, china" 0.2769 0.6614
+7 "university of chinese academy of sciences, beijing, 100049, china" 0.6609 0.2655
+8 "yanchi research station, school of soil and water conservation, beijing forestry university, beijing, china" -0.6607 0.2659
+*Edges
+1 2 3

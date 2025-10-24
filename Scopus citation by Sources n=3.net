@@ -1,0 +1,40 @@
+﻿*Vertices 26
+1 "agricultural water management" -0.6158 -0.1062
+2 "agriculture (switzerland)" 0.0573 0.8839
+3 "agronomy" -0.4927 0.8374
+4 "applied and environmental microbiology" 0.736 -0.1607
+5 "applied soil ecology" 0.5921 0.688
+6 "arid land research and management" -0.4069 -0.8826
+7 "biology and fertility of soils" -0.5876 -0.0198
+8 "environmental microbiology" 0.5494 -0.7728
+9 "frontiers in microbiology" 0.7409 -0.1382
+10 "frontiers in plant science" 0.7349 -0.1657
+11 "indian journal of agronomy" 0.3419 0.8656
+12 "journal of applied ecology" 0.2591 0.4727
+13 "journal of arid land" 0.7438 -0.1351
+14 "journal of phycology" -0.625 0.0443
+15 "journal of soil science and plant nutrition" -0.5835 -0.0193
+16 "land degradation and development" 0.7996 0.4887
+17 "microbial ecology" -0.2054 0.8901
+18 "mycorrhiza" -0.6131 -0.0823
+19 "plant and soil" -0.6061 -0.0216
+20 "plants" 0.2272 -0.9271
+21 "plos one" 0.7395 -0.1342
+22 "restoration ecology" -0.6175 0.0175
+23 "science of the total environment" -0.6168 -0.1154
+24 "soil and tillage research" -0.1073 -0.9173
+25 "soil biology and biochemistry" -0.6233 0.0382
+26 "systematic and applied microbiology" 0.1794 -0.6281
+*Edges
+1 18 2
+1 23 1
+4 9 1
+4 10 2
+7 15 1
+7 19 1
+9 13 1
+9 21 1
+14 25 1
+18 19 1
+19 22 1
+22 25 1

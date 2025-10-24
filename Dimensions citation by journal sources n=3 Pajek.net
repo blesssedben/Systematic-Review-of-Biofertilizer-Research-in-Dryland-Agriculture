@@ -1,0 +1,37 @@
+﻿*Vertices 20
+1 "3 biotech" -0.2645 1.0154
+2 "agricultural water management" -0.5803 -0.0731
+3 "agronomy" 0.1438 0.9771
+4 "applied soil ecology" 0.8271 -0.1071
+5 "biology and fertility of soils" -0.5351 -0.0587
+6 "frontiers in microbiology" 0.8303 -0.1059
+7 "frontiers in plant science" 0.8309 -0.1024
+8 "indian journal of agronomy" -0.1732 -1.0368
+9 "iop conference series earth and environmental science" 0.5681 -0.8137
+10 "journal of applied ecology" -0.5502 -0.0219
+11 "journal of arid land" 0.833 -0.1081
+12 "journal of phycology" -0.5667 0.0493
+13 "journal of plant growth regulation" -0.5615 -0.0435
+14 "jurnal biologi tropis" 0.2304 -0.9594
+15 "madras agricultural journal" 0.7535 0.636
+16 "plant and soil" -0.5486 -0.0465
+17 "restoration ecology" -0.5607 -0.011
+18 "rhizosphere" 0.4623 0.8251
+19 "soil biology and biochemistry" -0.5663 0.0447
+20 "the science of the total environment" -0.5723 -0.0596
+*Edges
+2 20 1
+4 6 1
+5 16 1
+6 7 2
+6 11 1
+10 16 1
+10 17 1
+12 19 1
+13 16 2
+13 17 1
+13 20 1
+16 17 2
+16 20 3
+17 19 1
+17 20 2

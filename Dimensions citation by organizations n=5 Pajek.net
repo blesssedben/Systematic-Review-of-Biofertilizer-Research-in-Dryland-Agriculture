@@ -1,0 +1,35 @@
+﻿*Vertices 13
+1 "ain shams university, egypt" -0.4705 -0.0877
+2 "brazilian agricultural research corporation, brazil" 1.3934 -0.0003
+3 "chinese academy of medical sciences & peking union medical college, china" 0.7007 -1.3462
+4 "gansu academy of sciences, china" -0.4646 0.1166
+5 "lanzhou university, china" -0.4646 0.1154
+6 "universidade federal do vale do são francisco, brazil" 1.3931 -0.0003
+7 "university of almería, spain" -0.4675 -0.0649
+8 "university of chinese academy of sciences, china" -0.4646 0.1204
+9 "university of florence, italy" -0.4672 -0.0782
+10 "university of mataram, indonesia" 0.7013 1.3459
+11 "university of seville, spain" -0.4564 -0.061
+12 "university of western australia, australia" -0.4653 -0.0065
+13 "unsw sydney, australia" -0.4677 -0.0533
+*Edges
+1 7 2
+1 9 4
+1 12 1
+1 13 1
+2 6 7
+4 5 11
+4 8 1
+4 12 3
+5 8 1
+5 12 4
+7 9 22
+7 11 18
+7 12 26
+7 13 41
+9 11 10
+9 12 10
+9 13 17
+11 12 11
+11 13 13
+12 13 34

@@ -1,0 +1,15 @@
+﻿*Vertices 7
+1 "applied soil ecology" 0.9933 -0.0047
+2 "frontiers in microbiology" 0.9934 -0
+3 "frontiers in plant science" 0.9935 0.0047
+4 "plant and soil" -0.748 -0.0126
+5 "restoration ecology" -0.7451 0.0067
+6 "soil biology and biochemistry" -0.7452 0.0184
+7 "the science of the total environment" -0.7418 -0.0125
+*Edges
+1 2 1
+2 3 2
+4 5 2
+4 7 3
+5 6 1
+5 7 2

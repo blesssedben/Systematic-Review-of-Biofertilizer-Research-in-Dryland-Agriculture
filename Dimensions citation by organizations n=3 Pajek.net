@@ -1,0 +1,143 @@
+﻿*Vertices 49
+1 "ain shams university, egypt" -0.502 0.2243
+2 "arish university, egypt" -0.4953 -0.2947
+3 "arizona state university, usa" -0.5017 0.1851
+4 "bahia state university, brazil" 0.943 -0.2041
+5 "beijing forestry university, china" -0.4963 -0.2348
+6 "beijing university of chinese medicine, china" 0.2873 1.0516
+7 "bern university of applied sciences, switzerland" 0.8941 0.5089
+8 "brazilian agricultural research corporation, brazil" 0.9439 -0.2022
+9 "cairo university, egypt" -0.5028 0.32
+10 "central china normal university, china" 0.5851 -0.8279
+11 "chinese academy of medical sciences & peking union medical college, china" 0.287 1.0517
+12 "estacion experimental de zonas aridas, spain" -0.5011 0.122
+13 "federal rural university of pernambuco, brazil" 0.9426 -0.203
+14 "federal university of pernambuco, brazil" 0.944 -0.2046
+15 "gansu academy of sciences, china" -0.4963 -0.2325
+16 "hebei university, china" 0.2869 1.0513
+17 "ilam university, iran" -0.0065 -1.1516
+18 "king abdulaziz university, saudi arabia" -0.5026 0.3224
+19 "king abdullah university of science and technology, saudi arabia" -0.5027 0.3186
+20 "lanzhou university, china" -0.4963 -0.2312
+21 "mekelle university, ethiopia" 0.894 0.5088
+22 "national autonomous university of mexico, mexico" -0.4952 -0.2988
+23 "national research and innovation agency, indonesia" 0.4949 -0.9877
+24 "north west agriculture and forestry university, china" -0.4966 -0.2172
+25 "plant industry, australia" -0.4967 -0.2154
+26 "qatar university, qatar" -0.5028 0.3224
+27 "qinghai university, china" -0.4961 -0.2465
+28 "state university of paraíba, brazil" 0.9441 -0.2035
+29 "tunis el manar university, tunisia" -0.5025 0.3201
+30 "udayana university, indonesia" 0.5883 0.8698
+31 "universidade federal do vale do são francisco, brazil" 0.9435 -0.2037
+32 "university of almería, spain" -0.5012 0.1324
+33 "university of chinese academy of sciences, china" -0.4955 -0.2861
+34 "university of florence, italy" -0.5014 0.1548
+35 "university of helsinki, finland" 0.7301 0.7804
+36 "university of kurdistan, iran" -0.0065 -1.1516
+37 "university of liège, belgium" -0.5014 0.1495
+38 "university of mataram, indonesia" 0.7647 -0.7917
+39 "university of nizwa, oman" -0.4953 -0.2976
+40 "university of nusa cendana, indonesia" -0.1337 1.165
+41 "university of seville, spain" -0.5011 0.1166
+42 "university of tehran, iran" 0.3117 -1.0522
+43 "university of western australia, australia" -0.4992 -0.0191
+44 "unsw sydney, australia" -0.501 0.1103
+45 "utah state university, usa" 0.9445 -0.2003
+46 "wageningen university & research, netherlands" 0.8941 0.5088
+47 "washington state university, usa" -0.4967 -0.2155
+48 "wuhan university of technology, china" -0.5016 0.173
+49 "xinjiang institute of ecology and geography, china" -0.4953 -0.294
+*Edges
+1 3 2
+1 19 1
+1 32 2
+1 34 4
+1 37 1
+1 43 1
+1 44 1
+2 33 2
+2 39 1
+2 49 3
+3 12 1
+3 32 3
+3 37 2
+3 41 1
+3 44 1
+3 48 3
+4 8 3
+4 13 1
+4 14 1
+4 28 1
+4 31 2
+5 15 1
+5 20 1
+6 11 10
+6 16 4
+7 21 2
+7 46 2
+8 13 3
+8 14 2
+8 28 5
+8 31 7
+8 45 1
+9 19 1
+11 16 6
+12 32 17
+12 34 7
+12 37 4
+12 41 3
+12 43 8
+12 44 11
+13 28 1
+13 31 2
+14 28 1
+14 31 2
+15 20 11
+15 24 1
+15 27 2
+15 33 1
+15 43 3
+15 47 1
+17 36 2
+18 19 2
+18 26 2
+19 26 2
+19 29 1
+20 24 2
+20 27 3
+20 33 1
+20 43 4
+20 47 1
+21 46 2
+22 39 1
+24 43 1
+24 47 1
+25 47 1
+27 33 1
+27 43 1
+28 31 4
+32 34 22
+32 37 16
+32 41 18
+32 43 26
+32 44 41
+32 48 2
+33 39 1
+33 49 3
+34 37 6
+34 41 10
+34 43 10
+34 44 17
+34 48 4
+37 41 5
+37 43 5
+37 44 9
+37 48 1
+39 49 1
+41 43 11
+41 44 13
+43 44 34
+43 47 1
+43 48 1
+44 48 1
